@@ -1,0 +1,309 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:03.037
+Bienvenido al tercer vídeo.
+
+2
+00:00:02.987 --> 00:00:09.025
+Antes de entrar en normas y metodologías, necesitas entender el entorno en el que vas a trabajar.
+
+3
+00:00:09.025 --> 00:00:20.037
+Una gran firma de servicios profesionales funciona de forma muy distinta a una empresa tradicional: trabajas por proyectos, para clientes, con equipos que cambian y con plazos exigentes.
+
+4
+00:00:20.037 --> 00:00:32.637
+En este vídeo te explico cómo se organiza un equipo de ciberseguridad en consultoría, qué hacen las áreas de privacidad, gobierno y cumplimiento y de gestión del riesgo humano, y cómo es el día a día de un analista junior.
+
+5
+00:00:32.637 --> 00:00:37.125
+Así llegarás a la entrevista sabiendo exactamente dónde te quieres ver.
+
+6
+00:00:38.142 --> 00:00:42.892
+Una gran consultora de ciberseguridad hace básicamente tres cosas.
+
+7
+00:00:42.842 --> 00:00:49.942
+Asesora, es decir, diagnostica la situación de un cliente, diseña cómo mejorarla y le ayuda a implantarlo.
+
+8
+00:00:49.942 --> 00:00:54.392
+Revisa, comprobando que los controles existen y funcionan.
+
+9
+00:00:54.392 --> 00:01:00.979
+Y opera servicios, como centros de operaciones de seguridad que vigilan a los clientes las veinticuatro horas.
+
+10
+00:01:00.979 --> 00:01:12.329
+Los clientes suelen ser grandes organizaciones: bancos, aseguradoras, energéticas, empresas de telecomunicaciones, administraciones públicas o grandes cadenas de distribución.
+
+11
+00:01:12.329 --> 00:01:17.104
+Esto es importante para ti: cada sector tiene su propia regulación.
+
+12
+00:01:17.104 --> 00:01:25.279
+La banca tiene que cumplir DORA, las administraciones el Esquema Nacional de Seguridad, y muchos sectores críticos la directiva NIS dos.
+
+13
+00:01:25.279 --> 00:01:29.629
+Conocer estas normas por sector te hará muy útil desde el primer día.
+
+14
+00:01:30.592 --> 00:01:35.217
+Un equipo de ciberseguridad de una gran firma suele dividirse en áreas.
+
+15
+00:01:35.167 --> 00:01:48.492
+La de estrategia, gobierno, riesgo y cumplimiento hace planes directores, análisis de riesgos, implantaciones de ISO veintisiete mil uno y adecuaciones a regulaciones como NIS dos, DORA o el Esquema Nacional de Seguridad.
+
+16
+00:01:48.492 --> 00:01:58.979
+La de privacidad trabaja con el Reglamento General de Protección de Datos: registros de actividades, evaluaciones de impacto o servicios de delegado de protección de datos externo.
+
+17
+00:01:58.979 --> 00:02:03.529
+La de riesgo humano trabaja la concienciación y la cultura de seguridad.
+
+18
+00:02:03.529 --> 00:02:12.304
+Y luego están las áreas técnicas: hacking ético, gestión de identidades, seguridad en la nube, respuesta a incidentes y operaciones.
+
+19
+00:02:12.304 --> 00:02:20.479
+La oferta que estás preparando se centra en las dos primeras áreas no técnicas, aunque necesitas entender las técnicas para hablar con ellas.
+
+20
+00:02:21.458 --> 00:02:26.183
+Veamos el área de privacidad, gobierno y cumplimiento con más detalle.
+
+21
+00:02:26.133 --> 00:02:37.708
+Gobierno significa definir cómo se organiza la seguridad: quién es responsable, qué políticas existen, qué comités toman decisiones y cuál es la hoja de ruta, lo que llamamos plan director.
+
+22
+00:02:37.708 --> 00:02:42.120
+Riesgo significa identificar, medir y tratar los riesgos.
+
+23
+00:02:42.120 --> 00:02:51.595
+Cumplimiento significa asegurar que la organización cumple con normas y leyes: ISO veintisiete mil uno, el Esquema Nacional de Seguridad, NIS dos, DORA.
+
+24
+00:02:51.595 --> 00:03:02.408
+Y privacidad significa proteger los datos personales según el reglamento europeo: registro de actividades de tratamiento, evaluaciones de impacto, gestión de derechos o de brechas.
+
+25
+00:03:02.408 --> 00:03:05.870
+La oferta destaca la alta exposición a cliente.
+
+26
+00:03:05.870 --> 00:03:10.845
+Eso significa reuniones, entrevistas, talleres y presentaciones.
+
+27
+00:03:10.845 --> 00:03:15.045
+Tu comunicación es tan importante como tu conocimiento técnico.
+
+28
+00:03:15.996 --> 00:03:20.958
+La segunda área de la oferta es la gestión del riesgo humano en ciberseguridad.
+
+29
+00:03:20.908 --> 00:03:27.071
+Su objetivo es poner a las personas en el centro y reducir el riesgo que se origina en comportamientos.
+
+30
+00:03:27.071 --> 00:03:35.533
+Aquí diseñarás programas de concienciación adaptados a cada rol, porque no necesita lo mismo un directivo que alguien de finanzas o un desarrollador.
+
+31
+00:03:35.533 --> 00:03:45.571
+Lanzarás simulaciones de phishing y de otros ataques, analizarás métricas, crearás campañas de comunicación, juegos o retos, y redes de embajadores de seguridad.
+
+32
+00:03:45.571 --> 00:03:55.858
+La evolución del sector es pasar de la concienciación a la gestión del riesgo humano: ya no basta con que todos hagan un curso al año, hay que medir comportamientos reales y cambiarlos.
+
+33
+00:03:55.858 --> 00:04:01.271
+Si te gusta la psicología, la comunicación y los datos, esta área es para ti.
+
+34
+00:04:02.254 --> 00:04:06.266
+Las firmas de consultoría tienen una estructura piramidal.
+
+35
+00:04:06.216 --> 00:04:10.479
+En la base están los analistas o juniors: tú, al entrar.
+
+36
+00:04:10.479 --> 00:04:17.766
+Ejecutas tareas, preparas documentación, analizas evidencias, tomas notas en reuniones y aprendes muchísimo.
+
+37
+00:04:17.766 --> 00:04:23.929
+Después vienen los seniors o consultores, que coordinan partes del proyecto y revisan tu trabajo.
+
+38
+00:04:23.929 --> 00:04:30.716
+Los managers gestionan el proyecto completo, el presupuesto, el equipo y la relación diaria con el cliente.
+
+39
+00:04:30.716 --> 00:04:36.791
+Los senior managers y directores se centran en la relación con los clientes y en vender nuevos proyectos.
+
+40
+00:04:36.791 --> 00:04:40.979
+Y en la cúspide están los socios, responsables del negocio.
+
+41
+00:04:40.979 --> 00:04:46.054
+Lo importante para ti: la progresión suele ser rápida si demuestras fiabilidad.
+
+42
+00:04:46.054 --> 00:04:52.304
+Las firmas valoran mucho al junior que entrega a tiempo, con calidad y que pregunta cuando tiene dudas.
+
+43
+00:04:53.264 --> 00:04:55.926
+Qué proyectos te vas a encontrar?
+
+44
+00:04:55.876 --> 00:05:07.339
+Muy a menudo, un análisis de diferencias, que en inglés llamamos gap analysis: comparar la situación actual del cliente con lo que exige una norma, y proponer un plan para cerrar las diferencias.
+
+45
+00:05:07.339 --> 00:05:11.064
+También análisis de riesgos con su plan de tratamiento.
+
+46
+00:05:11.064 --> 00:05:20.689
+Implantaciones de un sistema de gestión de seguridad de la información según ISO veintisiete mil uno, o adecuaciones al Esquema Nacional de Seguridad, a NIS dos o a DORA.
+
+47
+00:05:20.689 --> 00:05:26.789
+En privacidad, adecuaciones al reglamento europeo o servicios continuos de oficina de privacidad.
+
+48
+00:05:26.789 --> 00:05:32.039
+En riesgo humano, programas anuales de concienciación y campañas de simulación.
+
+49
+00:05:32.039 --> 00:05:37.476
+Y también auditorías internas y apoyo para que el cliente obtenga una certificación.
+
+50
+00:05:37.476 --> 00:05:41.864
+En los vídeos profesionales haremos uno de estos proyectos completo.
+
+51
+00:05:42.834 --> 00:05:45.109
+Cómo es un día normal?
+
+52
+00:05:45.059 --> 00:05:50.146
+Por la mañana quizá tienes una entrevista con el responsable de sistemas de un cliente.
+
+53
+00:05:50.146 --> 00:05:54.296
+Tu papel es tomar notas detalladas y después redactar el acta.
+
+54
+00:05:54.296 --> 00:06:03.059
+Luego revisas evidencias: políticas, procedimientos, capturas de configuraciones, y las comparas con los requisitos de una norma.
+
+55
+00:06:03.059 --> 00:06:07.796
+Rellenas matrices en Excel con el estado de cada control o de cada riesgo.
+
+56
+00:06:07.796 --> 00:06:13.584
+Por la tarde preparas diapositivas para la reunión de seguimiento semanal que presentará tu manager.
+
+57
+00:06:13.584 --> 00:06:18.271
+Y entre medias, formación interna y estudio para certificaciones.
+
+58
+00:06:18.271 --> 00:06:24.734
+El modelo es híbrido: algunos días en la oficina, otros en casa y otros en las oficinas del cliente.
+
+59
+00:06:24.734 --> 00:06:29.196
+Dos herramientas que debes dominar desde ya: Excel y PowerPoint.
+
+60
+00:06:29.196 --> 00:06:33.221
+Parecen básicas, pero marcan la diferencia en un junior.
+
+61
+00:06:34.180 --> 00:06:36.542
+Qué se valora en un junior?
+
+62
+00:06:36.492 --> 00:06:44.517
+Primero, la fiabilidad: entregar a tiempo, y si vas a llegar tarde, avisar con antelación, nunca el último minuto.
+
+63
+00:06:44.517 --> 00:06:52.430
+Segundo, la atención al detalle: todo lo que ve el cliente debe estar impecable, sin erratas ni datos inconsistentes.
+
+64
+00:06:52.430 --> 00:07:00.305
+Tercero, la proactividad: no solo hacer lo que te piden, sino proponer mejoras, por ejemplo una plantilla que ahorre tiempo.
+
+65
+00:07:00.305 --> 00:07:06.717
+Cuarto, una comunicación clara, también en inglés, porque muchos proyectos son internacionales.
+
+66
+00:07:06.717 --> 00:07:09.905
+Quinto, curiosidad y ganas de aprender.
+
+67
+00:07:09.905 --> 00:07:18.142
+Y sexto, discreción absoluta: la información de los clientes es confidencial, no se comenta en el metro ni en redes sociales.
+
+68
+00:07:18.142 --> 00:07:22.592
+Fíjate en que estas cualidades son exactamente las que pide la oferta.
+
+69
+00:07:22.592 --> 00:07:27.592
+En la entrevista, prepara un ejemplo real de tu vida para cada una de ellas.
+
+70
+00:07:28.574 --> 00:07:31.236
+Y aquí tienes tu hoja de ruta.
+
+71
+00:07:31.186 --> 00:07:39.286
+En el nivel básico, que terminas con este vídeo, has aprendido los fundamentos, las amenazas y cómo funciona la consultoría.
+
+72
+00:07:39.286 --> 00:07:52.536
+En el nivel intermedio entraremos en gobierno, riesgo y cumplimiento, la norma ISO veintisiete mil uno, la gestión de riesgos, el reglamento de protección de datos, la regulación europea y los fundamentos del riesgo humano.
+
+73
+00:07:52.536 --> 00:08:03.174
+En el nivel profesional diseñaremos un programa de concienciación, aprenderás las herramientas del consultor, haremos un caso práctico completo y veremos terceros y continuidad de negocio.
+
+74
+00:08:03.174 --> 00:08:11.361
+Y en el bloque de entrevista prepararemos el proceso de selección, las preguntas típicas con respuestas modelo y tus primeros noventa días.
+
+75
+00:08:11.361 --> 00:08:15.061
+Mi consejo: un módulo al día, con su test.
+
+76
+00:08:15.061 --> 00:08:17.861
+En unas semanas estarás preparado.
+
+77
+00:08:17.861 --> 00:08:20.236
+Vamos al nivel intermedio!

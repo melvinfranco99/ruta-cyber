@@ -1,0 +1,269 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:06.812
+Bienvenido al vídeo sobre la segunda gran área de la oferta: la gestión del riesgo humano en ciberseguridad.
+
+2
+00:00:06.762 --> 00:00:13.062
+Durante años, las empresas se limitaron a un curso anual obligatorio que todos hacían a toda velocidad.
+
+3
+00:00:13.062 --> 00:00:16.537
+Hoy sabemos que eso no cambia comportamientos.
+
+4
+00:00:16.537 --> 00:00:28.937
+En este vídeo vas a aprender por qué las personas cometen errores de seguridad, qué dice la ciencia del comportamiento, cómo se pasa de la concienciación a la gestión del riesgo humano, y cómo se mide la cultura de seguridad.
+
+5
+00:00:28.937 --> 00:00:32.712
+Es un área en pleno crecimiento y con mucha creatividad.
+
+6
+00:00:33.702 --> 00:00:36.402
+El área ha evolucionado mucho.
+
+7
+00:00:36.352 --> 00:00:44.827
+Antes, la concienciación consistía en un curso anual obligatorio, y el único indicador era el porcentaje de empleados que lo completaba.
+
+8
+00:00:44.827 --> 00:00:48.664
+Eso cumple con el auditor, pero no reduce el riesgo.
+
+9
+00:00:48.664 --> 00:00:53.089
+Hoy hablamos de gestión del riesgo humano, que tiene otro enfoque.
+
+10
+00:00:53.089 --> 00:01:03.439
+Primero, el objetivo es cambiar comportamientos concretos y medibles: reportar correos sospechosos, usar el gestor de contraseñas, verificar los pagos.
+
+11
+00:01:03.439 --> 00:01:09.139
+Segundo, se basa en datos: quién tiene más riesgo, por qué y en qué comportamiento.
+
+12
+00:01:09.139 --> 00:01:18.852
+Tercero, es personalizada por rol: un directivo, alguien de finanzas, un desarrollador o una persona de atención al cliente tienen riesgos distintos.
+
+13
+00:01:18.852 --> 00:01:26.789
+Y el objetivo final es crear una cultura de seguridad, en la que proteger la información sea lo normal, no una obligación impuesta.
+
+14
+00:01:27.760 --> 00:01:31.997
+Una idea fundamental: las personas no fallan por estupidez.
+
+15
+00:01:31.947 --> 00:01:35.585
+Fallan por contexto, presión y mal diseño.
+
+16
+00:01:35.585 --> 00:01:38.922
+Nuestro cerebro usa atajos llamados sesgos.
+
+17
+00:01:38.922 --> 00:01:46.660
+Obedecemos a la autoridad, reaccionamos rápido ante la urgencia y tenemos exceso de confianza: eso no me va a pasar a mí.
+
+18
+00:01:46.660 --> 00:01:55.635
+Además, sufrimos carga cognitiva: demasiadas normas, demasiadas contraseñas y demasiadas alertas, así que acabamos ignorándolas.
+
+19
+00:01:55.635 --> 00:02:02.297
+Y la seguridad compite con la productividad: si el procedimiento seguro es lento, la gente busca atajos.
+
+20
+00:02:02.297 --> 00:02:14.197
+Los expertos en factores humanos distinguen tipos de error: despistes al hacer algo automático, olvidos, errores por falta de conocimiento e infracciones deliberadas, normalmente para ahorrar tiempo.
+
+21
+00:02:14.197 --> 00:02:20.247
+Cada tipo necesita una solución distinta: la formación solo arregla los errores de conocimiento.
+
+22
+00:02:20.247 --> 00:02:23.910
+Los demás se arreglan con mejor diseño y procesos.
+
+23
+00:02:24.914 --> 00:02:29.726
+Para cambiar comportamientos usamos modelos de la ciencia del comportamiento.
+
+24
+00:02:29.676 --> 00:02:37.851
+El modelo de BJ Fogg dice que un comportamiento ocurre cuando coinciden tres cosas: motivación, capacidad y un detonante.
+
+25
+00:02:37.851 --> 00:02:45.351
+Si quieres que la gente reporte el phishing, necesita querer hacerlo, que sea fácil y un recordatorio en el momento justo.
+
+26
+00:02:45.351 --> 00:02:51.801
+El modelo COM-B, muy usado en Reino Unido, habla de capacidad, oportunidad y motivación.
+
+27
+00:02:51.801 --> 00:03:03.339
+Y los nudges, o empujones, son pequeños cambios de diseño que facilitan lo seguro: por ejemplo, un botón de reportar phishing bien visible que, al pulsarlo, da las gracias de inmediato.
+
+28
+00:03:03.339 --> 00:03:08.264
+También trabajamos los hábitos, con pequeños pasos y refuerzo positivo.
+
+29
+00:03:08.264 --> 00:03:14.914
+Una regla práctica: haz que el comportamiento seguro sea fácil, atractivo, social y oportuno.
+
+30
+00:03:14.914 --> 00:03:19.639
+Si citas estos modelos en la entrevista, te diferenciarás muchísimo.
+
+31
+00:03:20.628 --> 00:03:25.003
+La cultura de seguridad es lo que la gente hace cuando nadie la mira.
+
+32
+00:03:24.953 --> 00:03:34.828
+Un concepto clave es la cultura justa, que viene del sector de la aviación: los errores honestos se reportan sin miedo a castigo, porque así la organización aprende.
+
+33
+00:03:34.828 --> 00:03:41.103
+Si alguien hace clic en un phishing y lo reporta en dos minutos, hay que agradecérselo, no castigarlo.
+
+34
+00:03:41.103 --> 00:03:44.715
+Si se le castiga, la próxima vez lo esconderá.
+
+35
+00:03:44.715 --> 00:03:52.390
+La cultura también se construye con el ejemplo de la dirección: si el director general se salta las normas, nadie las cumplirá.
+
+36
+00:03:52.390 --> 00:04:00.553
+Otra práctica muy eficaz son las redes de embajadores de seguridad: voluntarios de cada departamento que hacen de puente con el equipo de seguridad.
+
+37
+00:04:00.553 --> 00:04:07.103
+Y la cultura se mide con encuestas de percepción, datos de comportamiento y entrevistas o grupos focales.
+
+38
+00:04:08.086 --> 00:04:12.323
+Medir bien es lo que separa un programa profesional de uno amateur.
+
+39
+00:04:12.273 --> 00:04:19.111
+El porcentaje de formación completada es necesario para el cumplimiento, pero no dice nada del riesgo real.
+
+40
+00:04:19.111 --> 00:04:29.273
+La tasa de clics en las simulaciones de phishing es útil, pero ojo: depende muchísimo de lo difícil que sea el correo, así que no compares campañas de dificultad distinta.
+
+41
+00:04:29.273 --> 00:04:34.273
+Más valiosa es la tasa de reporte: cuánta gente avisa al equipo de seguridad.
+
+42
+00:04:34.273 --> 00:04:39.973
+Y el tiempo hasta el primer reporte, que mide la rapidez de reacción de toda la organización.
+
+43
+00:04:39.973 --> 00:04:47.611
+También interesan los reincidentes, para darles apoyo específico, y el número de reportes de correos maliciosos reales.
+
+44
+00:04:47.611 --> 00:04:51.323
+Y para la cultura, un índice basado en encuestas.
+
+45
+00:04:51.323 --> 00:04:56.873
+Un objetivo típico de madurez es que la tasa de reporte supere claramente a la tasa de clics.
+
+46
+00:04:57.848 --> 00:05:03.510
+No todos los empleados tienen el mismo riesgo, así que la formación debe ser por roles.
+
+47
+00:05:03.460 --> 00:05:11.573
+La dirección es objetivo de fraudes del CEO y de vídeos o audios falsos, y además tiene responsabilidad legal con NIS dos o DORA.
+
+48
+00:05:11.573 --> 00:05:16.435
+Finanzas sufre los intentos de cambio de número de cuenta y los pagos urgentes.
+
+49
+00:05:16.435 --> 00:05:22.898
+Recursos humanos recibe currículums que pueden contener malware y maneja datos sensibles de los empleados.
+
+50
+00:05:22.898 --> 00:05:34.185
+Los equipos técnicos y de desarrollo tienen credenciales privilegiadas y pueden dejar contraseñas dentro del código. Atención al cliente recibe llamadas de suplantación para cambiar datos de clientes.
+
+51
+00:05:34.185 --> 00:05:38.473
+Y quienes teletrabajan o viajan se conectan a redes públicas.
+
+52
+00:05:45.522 --> 00:05:50.459
+Un apartado muy importante, y que valorarán en la entrevista: la ética.
+
+53
+00:05:50.409 --> 00:05:53.909
+Las simulaciones deben educar, no humillar.
+
+54
+00:05:53.909 --> 00:05:56.547
+Nunca se publica quién ha caído.
+
+55
+00:05:56.547 --> 00:06:06.947
+Hay que evitar cebos crueles, como un falso aumento de sueldo, un despido o una noticia de salud, porque dañan la confianza de los empleados en la empresa y en el equipo de seguridad.
+
+56
+00:06:06.947 --> 00:06:26.822
+Antes de lanzar un programa, se coordina con recursos humanos, con el área legal, con la representación de los trabajadores cuando corresponde y con el delegado de protección de datos, porque las simulaciones también son un tratamiento de datos personales de los empleados: hay que informar, definir la base legal y limitar quién ve los resultados individuales.
+
+57
+00:06:26.822 --> 00:06:34.909
+Los informes a la dirección deben ser agregados, y el seguimiento individual debe tener un fin de apoyo y formación, no de castigo.
+
+58
+00:06:35.860 --> 00:06:37.572
+Resumen.
+
+59
+00:06:37.522 --> 00:06:43.572
+La gestión del riesgo humano pasa de cursos anuales a cambiar comportamientos concretos y medibles.
+
+60
+00:06:43.572 --> 00:06:50.260
+Las personas fallan por contexto, sesgos y mal diseño, así que hay que facilitar el comportamiento seguro.
+
+61
+00:06:50.260 --> 00:06:54.947
+Se mide sobre todo con reportes y tendencias, no solo con clics.
+
+62
+00:06:54.947 --> 00:06:59.422
+Y la ética y la privacidad deben estar presentes en todo el programa.
+
+63
+00:06:59.422 --> 00:07:09.585
+Ejercicio: elige un comportamiento, por ejemplo verificar por teléfono cualquier cambio de número de cuenta de un proveedor, y diseña cómo cambiarlo con el modelo de Fogg.
+
+64
+00:07:09.585 --> 00:07:13.210
+Motivación: contar un caso real de fraude.
+
+65
+00:07:13.210 --> 00:07:17.410
+Capacidad: una lista actualizada de teléfonos de proveedores.
+
+66
+00:07:17.410 --> 00:07:23.047
+Detonante: un aviso automático en el sistema de pagos cuando alguien cambia una cuenta.
+
+67
+00:07:23.047 --> 00:07:27.372
+En el nivel profesional diseñaremos un programa completo de un año.

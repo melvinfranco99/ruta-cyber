@@ -1,0 +1,301 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:03.137
+Bienvenido al nivel intermedio.
+
+2
+00:00:03.087 --> 00:00:12.187
+Empezamos con el corazón del área a la que quieres entrar: gobierno, riesgo y cumplimiento, lo que en inglés se conoce por sus siglas GRC.
+
+3
+00:00:12.187 --> 00:00:23.550
+Hoy vas a aprender cómo se organiza la seguridad dentro de una empresa, qué documentos la sostienen, quién es responsable de qué, y cuáles son los marcos de referencia que todo consultor debe conocer.
+
+4
+00:00:23.550 --> 00:00:35.012
+Al terminar, sabrás explicar la diferencia entre una política y un procedimiento, qué es el modelo de las tres líneas y cuándo usar ISO veintisiete mil uno, el marco del NIST o los controles CIS.
+
+5
+00:00:35.982 --> 00:00:39.107
+Empecemos por definir las tres letras.
+
+6
+00:00:39.057 --> 00:00:48.794
+Gobierno es cómo la dirección dirige y controla la seguridad: fija objetivos, asigna responsabilidades, aprueba políticas y presupuestos, y pide cuentas.
+
+7
+00:00:48.794 --> 00:00:55.069
+Riesgo es el proceso de identificar, evaluar y tratar los riesgos, para decidir dónde invertir.
+
+8
+00:00:55.069 --> 00:01:05.519
+Y cumplimiento es asegurar que la organización cumple con las leyes, con las normas a las que se ha comprometido, con los contratos con clientes y con sus propias políticas internas.
+
+9
+00:01:05.519 --> 00:01:08.194
+Las tres se refuerzan entre sí.
+
+10
+00:01:08.194 --> 00:01:11.132
+El gobierno decide hacia dónde vamos.
+
+11
+00:01:11.132 --> 00:01:15.057
+El análisis de riesgos prioriza qué es lo más importante.
+
+12
+00:01:15.057 --> 00:01:20.144
+Y el cumplimiento verifica que lo que hemos dicho que hacemos, realmente se hace.
+
+13
+00:01:20.144 --> 00:01:25.644
+Un buen consultor de GRC conecta siempre la seguridad con los objetivos de negocio.
+
+14
+00:01:26.632 --> 00:01:30.294
+La seguridad se apoya en una pirámide documental.
+
+15
+00:01:30.244 --> 00:01:38.032
+Arriba está la política de seguridad: un documento corto, aprobado por la dirección, que dice qué queremos conseguir y por qué.
+
+16
+00:01:38.032 --> 00:01:47.569
+Debajo vienen las normas o estándares, que fijan requisitos obligatorios concretos, por ejemplo, las contraseñas tendrán al menos catorce caracteres.
+
+17
+00:01:47.569 --> 00:01:57.119
+Luego están los procedimientos, que explican el cómo, paso a paso, y quién lo hace, por ejemplo, el procedimiento de alta y baja de usuarios.
+
+18
+00:01:57.119 --> 00:02:02.407
+Después las guías e instrucciones técnicas, más detalladas o de recomendación.
+
+19
+00:02:02.407 --> 00:02:10.107
+Y en la base, los registros y evidencias, que prueban que todo lo anterior se cumple: un ticket, un acta o un informe.
+
+20
+00:02:10.107 --> 00:02:15.119
+La diferencia entre política y procedimiento es una pregunta típica de entrevista.
+
+21
+00:02:15.119 --> 00:02:17.632
+Política es el qué y el porqué.
+
+22
+00:02:17.632 --> 00:02:20.532
+Procedimiento es el cómo y el quién.
+
+23
+00:02:21.482 --> 00:02:24.457
+Quién es quién en el gobierno de la seguridad?
+
+24
+00:02:24.407 --> 00:02:29.732
+Arriba, el consejo de administración y la dirección son los responsables últimos.
+
+25
+00:02:29.732 --> 00:02:38.294
+Regulaciones como NIS dos o DORA lo dejan muy claro: los directivos deben aprobar las medidas y pueden responder personalmente si no lo hacen.
+
+26
+00:02:38.294 --> 00:02:44.032
+El CISO, o responsable de seguridad de la información, dirige la función de seguridad.
+
+27
+00:02:44.032 --> 00:02:52.619
+El comité de seguridad reúne a distintas áreas, como tecnología, legal, recursos humanos o negocio, para coordinar y decidir.
+
+28
+00:02:52.619 --> 00:03:00.644
+El delegado de protección de datos supervisa el cumplimiento del reglamento europeo de protección de datos y debe tener independencia.
+
+29
+00:03:00.644 --> 00:03:08.982
+Y en el negocio existen propietarios de activos y propietarios de riesgos: personas que deciden sobre su información y aceptan o no sus riesgos.
+
+30
+00:03:08.982 --> 00:03:12.894
+Una matriz RACI ayuda a dejar todo esto por escrito.
+
+31
+00:03:13.884 --> 00:03:22.984
+Un modelo que aparece en cualquier gran empresa, sobre todo en banca, es el modelo de las tres líneas, publicado por el Instituto de Auditores Internos.
+
+32
+00:03:22.984 --> 00:03:30.684
+La primera línea son las áreas de negocio y de tecnología, que gestionan los riesgos en su día a día: aplican los controles.
+
+33
+00:03:30.684 --> 00:03:41.509
+La segunda línea son las funciones de riesgos, cumplimiento y, normalmente, la propia seguridad de la información, que definen el marco, supervisan y asesoran a la primera.
+
+34
+00:03:41.509 --> 00:03:48.009
+La tercera línea es auditoría interna, que da una opinión independiente al consejo sobre si todo funciona.
+
+35
+00:03:48.009 --> 00:03:52.746
+Y fuera de la organización están los auditores externos y los reguladores.
+
+36
+00:03:52.746 --> 00:04:01.509
+Como consultor puedes apoyar a cualquiera de las tres, pero cuidado: si en un cliente has diseñado un control, no deberías ser tú quien lo audite.
+
+37
+00:04:01.509 --> 00:04:04.134
+Eso rompería la independencia.
+
+38
+00:04:05.110 --> 00:04:09.822
+Ahora los marcos de referencia, la caja de herramientas del GRC.
+
+39
+00:04:09.772 --> 00:04:18.622
+ISO veintisiete mil uno de dos mil veintidós es la norma internacional para un sistema de gestión de seguridad de la información, y es certificable.
+
+40
+00:04:18.622 --> 00:04:24.735
+ISO veintisiete mil dos es su guía de implantación, con el detalle de los noventa y tres controles.
+
+41
+00:04:24.735 --> 00:04:34.272
+El marco de ciberseguridad del NIST, en su versión dos punto cero de dos mil veinticuatro, es voluntario y muy útil para medir madurez y comunicar con la dirección.
+
+42
+00:04:34.272 --> 00:04:39.710
+Los controles CIS son dieciocho controles técnicos priorizados, muy prácticos.
+
+43
+00:04:39.710 --> 00:04:50.310
+El Esquema Nacional de Seguridad, regulado por el Real Decreto trescientos once de dos mil veintidós, es obligatorio para el sector público español y para sus proveedores tecnológicos.
+
+44
+00:04:50.310 --> 00:04:56.572
+Y COBIT es el marco de gobierno de las tecnologías de la información de ISACA, muy usado en auditoría.
+
+45
+00:04:57.536 --> 00:05:03.586
+El marco del NIST merece un momento propio porque se usa muchísimo para presentaciones a la dirección.
+
+46
+00:05:03.536 --> 00:05:09.823
+Su versión dos punto cero, publicada en febrero de dos mil veinticuatro, tiene seis funciones.
+
+47
+00:05:09.823 --> 00:05:18.998
+La gran novedad es Govern, gobernar, que ocupa el centro y cubre estrategia, roles, políticas y la gestión de riesgos de la cadena de suministro.
+
+48
+00:05:18.998 --> 00:05:23.173
+Luego Identify, identificar los activos y los riesgos.
+
+49
+00:05:23.173 --> 00:05:31.836
+Protect, proteger, que incluye la gestión de identidades, la formación y concienciación, la seguridad de los datos y de las plataformas.
+
+50
+00:05:31.836 --> 00:05:35.911
+Detect, detectar, mediante monitorización.
+
+51
+00:05:35.911 --> 00:05:38.973
+Respond, responder a incidentes.
+
+52
+00:05:38.973 --> 00:05:42.061
+Y Recover, recuperar la actividad.
+
+53
+00:05:42.061 --> 00:05:51.173
+Un truco: cuando tengas que presentar la madurez de un cliente, un gráfico de radar con estas seis funciones es muy visual y lo entiende cualquier directivo.
+
+54
+00:05:52.170 --> 00:05:54.857
+No todo el cumplimiento es igual.
+
+55
+00:05:54.807 --> 00:06:09.070
+Hay obligaciones legales, como el reglamento europeo de protección de datos y la ley orgánica española de protección de datos, NIS dos para sectores críticos, DORA para el sector financiero o el Esquema Nacional de Seguridad para el sector público.
+
+56
+00:06:09.070 --> 00:06:12.107
+Si no se cumplen, hay sanciones.
+
+57
+00:06:12.107 --> 00:06:21.045
+Hay normas voluntarias, como ISO veintisiete mil uno, SOC dos o TISAX en automoción, que en la práctica exigen los clientes para contratar.
+
+58
+00:06:21.045 --> 00:06:27.245
+Hay obligaciones contractuales, como las cláusulas de seguridad firmadas con clientes y proveedores.
+
+59
+00:06:27.245 --> 00:06:31.007
+Y hay cumplimiento interno con las propias políticas.
+
+60
+00:06:31.007 --> 00:06:41.020
+Como una empresa grande tiene que cumplir muchas cosas a la vez, se crea un marco unificado de controles: un único catálogo de controles que se relaciona con todas las normas.
+
+61
+00:06:41.020 --> 00:06:44.482
+Así se evalúa una vez y se cumple con muchas.
+
+62
+00:06:45.460 --> 00:06:48.197
+Lo que no se mide no se gestiona.
+
+63
+00:06:48.147 --> 00:06:51.722
+En GRC usamos dos tipos de indicadores.
+
+64
+00:06:51.722 --> 00:07:04.172
+Los indicadores de rendimiento, o KPI, miden si los procesos funcionan, por ejemplo el porcentaje de parches críticos aplicados en plazo o el porcentaje de empleados que han completado la formación.
+
+65
+00:07:04.172 --> 00:07:15.785
+Los indicadores de riesgo, o KRI, son alertas tempranas de que un riesgo está creciendo, por ejemplo el número de cuentas privilegiadas sin doble factor o de proveedores críticos sin evaluar.
+
+66
+00:07:15.785 --> 00:07:22.260
+Cada indicador debe tener un objetivo, un umbral de alerta, un responsable y una frecuencia de medida.
+
+67
+00:07:22.260 --> 00:07:28.485
+Y para la dirección se resumen en un cuadro de mando con pocos indicadores, claros y con su tendencia.
+
+68
+00:07:28.485 --> 00:07:34.008
+Como junior, es muy probable que prepares estos cuadros de mando en Excel o en Power BI.
+
+69
+00:07:34.958 --> 00:07:37.820
+Vamos a repasar con una práctica.
+
+70
+00:07:37.770 --> 00:07:42.958
+Primero, explica qué es GRC en una sola frase a alguien no técnico.
+
+71
+00:07:42.958 --> 00:07:52.358
+Por ejemplo: GRC asegura que la seguridad se dirige desde la dirección, se prioriza según el riesgo y se puede demostrar ante clientes y reguladores.
+
+72
+00:07:52.358 --> 00:07:59.995
+Segundo, dibuja de memoria la pirámide documental: política, normas, procedimientos, guías y registros.
+
+73
+00:07:59.995 --> 00:08:10.745
+Tercero, sitúa en el modelo de las tres líneas al equipo de sistemas, que es primera línea, a la función de riesgos, que es segunda, y a auditoría interna, que es tercera.
+
+74
+00:08:10.745 --> 00:08:25.483
+Y cuarto, elige un marco para tres empresas: un ayuntamiento, que necesita el Esquema Nacional de Seguridad; un banco, que necesita DORA; y una empresa de software que vende a multinacionales, que probablemente necesite ISO veintisiete mil uno.
+
+75
+00:08:25.483 --> 00:08:29.033
+En el próximo vídeo profundizamos en esa norma.

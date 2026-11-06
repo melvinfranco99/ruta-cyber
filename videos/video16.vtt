@@ -1,0 +1,345 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:09.675
+En este vídeo vamos a practicar las preguntas más probables de una entrevista para un puesto junior en privacidad, gobierno y cumplimiento o en riesgo humano.
+
+2
+00:00:09.675 --> 00:00:14.387
+Para cada pregunta te daré una respuesta modelo, breve y estructurada.
+
+3
+00:00:14.387 --> 00:00:21.350
+No las memorices palabra por palabra: entiende la estructura y adáptalas con tus propias palabras y experiencias.
+
+4
+00:00:21.350 --> 00:00:27.250
+Al final practicaremos algunas preguntas en inglés, porque la oferta pide nivel profesional.
+
+5
+00:00:27.250 --> 00:00:31.837
+En la web tienes un simulador de entrevista con temporizador para entrenar.
+
+6
+00:00:32.814 --> 00:00:37.114
+Primera pregunta: ¿por qué ciberseguridad y por qué esta área?
+
+7
+00:00:37.064 --> 00:00:48.551
+Una respuesta modelo: durante la carrera me di cuenta de que la mayoría de los incidentes no se deben a fallos técnicos sofisticados, sino a procesos mal diseñados y a personas sin la información adecuada.
+
+8
+00:00:48.551 --> 00:00:56.301
+Me atrae esta área porque une el análisis, la regulación y las personas, y porque tiene un impacto directo en el negocio.
+
+9
+00:00:56.301 --> 00:01:10.264
+Además, el momento es muy interesante: NIS dos, DORA y el reglamento de inteligencia artificial están obligando a muchas organizaciones a madurar, y la gestión del riesgo humano está pasando de cursos anuales a programas basados en datos.
+
+10
+00:01:10.264 --> 00:01:17.701
+Yo puedo aportar capacidad analítica, facilidad para explicar temas técnicos de forma sencilla y muchas ganas de aprender.
+
+11
+00:01:17.701 --> 00:01:23.876
+Fíjate en la estructura: experiencia, conocimiento del área, mercado y aportación.
+
+12
+00:01:24.832 --> 00:01:27.957
+Vamos con preguntas técnicas rápidas.
+
+13
+00:01:27.907 --> 00:01:30.069
+Qué es la tríada CIA?
+
+14
+00:01:30.069 --> 00:01:37.994
+Responde con la definición de confidencialidad, integridad y disponibilidad, y un ejemplo de cada una, como los del vídeo uno.
+
+15
+00:01:37.994 --> 00:01:41.919
+Diferencia entre amenaza, vulnerabilidad y riesgo?
+
+16
+00:01:41.919 --> 00:01:55.082
+Usa un ejemplo encadenado: la amenaza es el phishing, la vulnerabilidad es no tener doble factor, y el riesgo es la probabilidad de que roben credenciales y accedan a datos de clientes, combinada con el impacto que tendría.
+
+17
+00:01:55.082 --> 00:01:57.682
+Qué es ISO veintisiete mil uno?
+
+18
+00:01:57.682 --> 00:02:12.532
+Es la norma internacional certificable para un sistema de gestión de seguridad de la información, basado en el riesgo y en la mejora continua, con cláusulas de la cuatro a la diez obligatorias y noventa y tres controles de referencia en el Anexo A. ¿Política o procedimiento?
+
+19
+00:02:12.532 --> 00:02:17.144
+La política dice qué y por qué; el procedimiento, cómo y quién.
+
+20
+00:02:18.122 --> 00:02:20.547
+Más preguntas técnicas.
+
+21
+00:02:20.497 --> 00:02:24.534
+Cuáles son los principios del reglamento de protección de datos?
+
+22
+00:02:24.534 --> 00:02:38.247
+Los siete del artículo cinco: licitud, lealtad y transparencia; limitación de la finalidad; minimización; exactitud; limitación del plazo de conservación; integridad y confidencialidad; y responsabilidad proactiva.
+
+23
+00:02:38.247 --> 00:02:40.597
+Qué haces ante una brecha?
+
+24
+00:02:40.597 --> 00:02:51.597
+Contener, evaluar el riesgo, notificar a la Agencia en setenta y dos horas si hay riesgo para las personas, comunicarlo a los afectados si el riesgo es alto, y documentarlo siempre.
+
+25
+00:02:51.597 --> 00:02:53.997
+Responsable o encargado?
+
+26
+00:02:53.997 --> 00:03:00.134
+El responsable decide, el encargado trata por su cuenta con un contrato del artículo veintiocho.
+
+27
+00:03:00.134 --> 00:03:02.284
+Qué es NIS dos o DORA?
+
+28
+00:03:02.284 --> 00:03:05.497
+Di a quién aplica y dos obligaciones clave.
+
+29
+00:03:05.497 --> 00:03:08.672
+Y ¿cuándo se hace una evaluación de impacto?
+
+30
+00:03:08.672 --> 00:03:14.147
+Cuando un tratamiento probablemente suponga un alto riesgo para los derechos de las personas.
+
+31
+00:03:15.108 --> 00:03:21.983
+Ahora una pregunta de caso: un cliente quiere certificarse en ISO veintisiete mil uno, ¿por dónde empezarías?
+
+32
+00:03:21.933 --> 00:03:25.233
+La clave es no lanzarse a hablar de controles.
+
+33
+00:03:25.233 --> 00:03:35.945
+Primero, aclarar el contexto con preguntas: ¿por qué quiere certificarse?, ¿en qué plazo?, ¿qué alcance, toda la empresa o un servicio concreto?, y ¿qué tiene ya hecho?
+
+34
+00:03:35.945 --> 00:03:42.633
+Segundo, un diagnóstico mediante un análisis de diferencias, con entrevistas y revisión de evidencias.
+
+35
+00:03:42.633 --> 00:03:50.283
+Tercero, definir la metodología de riesgos, hacer el análisis, el plan de tratamiento y la declaración de aplicabilidad.
+
+36
+00:03:50.283 --> 00:03:55.558
+Cuarto, implantar por prioridades, incluyendo formación y concienciación.
+
+37
+00:03:55.558 --> 00:04:02.045
+Y quinto, auditoría interna, revisión por la dirección y auditoría de certificación en dos fases.
+
+38
+00:04:02.045 --> 00:04:09.620
+Termina con una frase de valor: el objetivo no es solo el certificado, sino un sistema que el cliente pueda mantener.
+
+39
+00:04:10.582 --> 00:04:16.319
+Caso de riesgo humano: en una simulación, el treinta por ciento de la plantilla hace clic.
+
+40
+00:04:16.269 --> 00:04:17.919
+Qué harías?
+
+41
+00:04:17.919 --> 00:04:22.207
+Primero, no culpar ni sacar conclusiones con un único dato.
+
+42
+00:04:22.207 --> 00:04:30.207
+Analiza la dificultad del correo, qué colectivos y sedes tienen peores resultados y si hay patrones, como el móvil o el horario.
+
+43
+00:04:30.207 --> 00:04:35.332
+Segundo, mira también la tasa de reporte y el tiempo hasta el primer reporte.
+
+44
+00:04:35.332 --> 00:04:46.119
+Tercero, acciones de personas: formación breve en el momento del error, contenidos por rol para los colectivos más afectados y un botón de reporte fácil con agradecimiento inmediato.
+
+45
+00:04:46.119 --> 00:04:55.544
+Cuarto, acciones de proceso y técnicas, porque las personas son una capa más: doble factor, verificación de pagos y mejor filtrado del correo.
+
+46
+00:04:55.544 --> 00:05:00.857
+Y quinto, medir la tendencia trimestral y comunicarla con datos a la dirección.
+
+47
+00:05:00.857 --> 00:05:05.007
+Esta respuesta demuestra pensamiento sistémico y empatía.
+
+48
+00:05:05.984 --> 00:05:10.421
+Prepara también estas preguntas de comportamiento con el método STAR.
+
+49
+00:05:10.371 --> 00:05:17.284
+Cuéntame un error y qué aprendiste: elige uno real, no un falso defecto como soy demasiado perfeccionista.
+
+50
+00:05:17.284 --> 00:05:22.396
+Asume la responsabilidad, explica cómo lo corregiste y qué cambiaste después.
+
+51
+00:05:22.396 --> 00:05:28.134
+Un conflicto en un equipo: muestra que escuchaste, buscaste datos y llegaste a un acuerdo.
+
+52
+00:05:28.134 --> 00:05:33.409
+Una vez que aprendiste algo muy rápido: aquí puedes mencionar este mismo curso.
+
+53
+00:05:33.409 --> 00:05:44.534
+Explica algo técnico a alguien no técnico: te pueden pedir en directo que expliques el phishing a tu abuela o el reglamento de protección de datos a un comercial. Practica analogías sencillas.
+
+54
+00:05:44.534 --> 00:05:53.784
+Y ¿cómo gestionas varias tareas con el mismo plazo?: priorizar por impacto y urgencia, comunicar pronto a quien corresponda y pedir ayuda si es necesario.
+
+55
+00:05:53.784 --> 00:05:57.820
+En la web tienes el simulador con todas estas preguntas.
+
+56
+00:05:58.770 --> 00:06:01.357
+Ahora practicamos en inglés.
+
+57
+00:06:01.307 --> 00:06:05.545
+Te leo las preguntas y una respuesta modelo para dos de ellas.
+
+58
+00:06:05.545 --> 00:06:07.695
+Tell me about yourself.
+
+59
+00:06:07.695 --> 00:06:11.195
+Why do you want to work in cyber risk and privacy?
+
+60
+00:06:11.195 --> 00:06:14.732
+What is the difference between a risk and a vulnerability?
+
+61
+00:06:14.732 --> 00:06:21.245
+A model answer: A vulnerability is a weakness, for example, the lack of multi factor authentication.
+
+62
+00:06:21.245 --> 00:06:30.945
+A risk is the combination of the likelihood that a threat exploits that weakness and the impact it would have on the business. How would you explain phishing to a non technical audience?
+
+63
+00:06:30.945 --> 00:06:35.220
+A model answer: Phishing is like a fake letter from your bank.
+
+64
+00:06:35.220 --> 00:06:42.632
+It looks real, it creates urgency, and it asks you to do something, like clicking a link or sharing your password.
+
+65
+00:06:42.632 --> 00:06:48.570
+If something feels urgent and unusual, stop, check it through another channel, and report it.
+
+66
+00:06:48.570 --> 00:06:51.532
+Where do you see yourself in three years?
+
+67
+00:06:51.532 --> 00:06:55.907
+Practica en voz alta: la fluidez importa más que la perfección.
+
+68
+00:06:56.860 --> 00:07:01.210
+Te dejo el vocabulario que más se usa en proyectos internacionales.
+
+69
+00:07:01.160 --> 00:07:05.860
+Gap analysis, maturity assessment, roadmap y remediation plan.
+
+70
+00:07:05.860 --> 00:07:11.735
+Risk appetite, inherent risk, residual risk, risk owner y risk register.
+
+71
+00:07:11.735 --> 00:07:16.947
+Statement of Applicability, nonconformity, corrective action y evidence.
+
+72
+00:07:16.947 --> 00:07:23.297
+En privacidad: data subject rights, data breach, DPIA, controller y processor.
+
+73
+00:07:23.297 --> 00:07:29.435
+En riesgo humano: awareness programme, phishing simulation, click rate y report rate.
+
+74
+00:07:29.435 --> 00:07:42.047
+Y vocabulario de consultoría: deliverable, que es un entregable; stakeholder, una parte interesada; kick-off, la reunión de arranque; follow-up, el seguimiento; y deadline, la fecha límite.
+
+75
+00:07:42.047 --> 00:07:52.660
+Un truco para mejorar tu inglés rápido: lee el marco del NIST y los resúmenes de ENISA en inglés, y practica explicando en voz alta lo que has leído durante cinco minutos al día.
+
+76
+00:07:53.630 --> 00:07:57.355
+Para terminar, los errores que te pueden descartar.
+
+77
+00:07:57.305 --> 00:08:02.067
+Inventarte una respuesta: los entrevistadores lo detectan enseguida.
+
+78
+00:08:02.067 --> 00:08:10.230
+Es mucho mejor decir no lo conozco en detalle, pero entiendo que está relacionado con esto, y lo averiguaría consultando tal fuente.
+
+79
+00:08:10.230 --> 00:08:15.105
+Eso demuestra honestidad y criterio, dos cualidades clave en un consultor.
+
+80
+00:08:15.105 --> 00:08:18.017
+Respuestas genéricas sin ejemplos.
+
+81
+00:08:18.017 --> 00:08:22.542
+Hablar mal de experiencias, profesores o compañeros anteriores.
+
+82
+00:08:22.542 --> 00:08:25.442
+No conocer la oferta o la firma.
+
+83
+00:08:25.442 --> 00:08:32.655
+Hablar solo de tecnología sin conectar con el negocio, algo que en las áreas de gobierno y riesgo humano es esencial.
+
+84
+00:08:32.655 --> 00:08:35.192
+Y no hacer preguntas al final.
+
+85
+00:08:35.192 --> 00:08:42.817
+Ahora ve a la web y usa el simulador de entrevista: responde en voz alta, cronométrate y compara con las respuestas modelo.
+
+86
+00:08:42.817 --> 00:08:46.642
+Repítelo varios días y llegarás con mucha confianza.

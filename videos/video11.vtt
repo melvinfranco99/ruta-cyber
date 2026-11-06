@@ -1,0 +1,261 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:03.187
+Bienvenido al nivel profesional.
+
+2
+00:00:03.137 --> 00:00:07.537
+A partir de ahora vamos a trabajar como lo harías en un proyecto real.
+
+3
+00:00:07.537 --> 00:00:17.512
+En este vídeo vas a diseñar, paso a paso, un programa anual de gestión del riesgo humano para un cliente: desde el diagnóstico inicial hasta el informe a la dirección.
+
+4
+00:00:17.512 --> 00:00:26.312
+Verás cómo se planifica una campaña de simulación de phishing, cómo se eligen los contenidos, qué métricas se presentan y qué errores hay que evitar.
+
+5
+00:00:26.312 --> 00:00:31.450
+Si te incorporas al área de riesgo humano, esto es literalmente tu trabajo.
+
+6
+00:00:32.430 --> 00:00:35.517
+Todo programa empieza con un diagnóstico.
+
+7
+00:00:35.467 --> 00:00:45.030
+Primero, entrevistas con las partes implicadas: el equipo de seguridad, recursos humanos, comunicación interna y algunos responsables de negocio.
+
+8
+00:00:45.030 --> 00:00:50.467
+Pregunta qué incidentes han tenido, qué se ha hecho antes, qué ha funcionado y qué no.
+
+9
+00:00:50.467 --> 00:00:58.067
+Segundo, revisa los datos: incidentes reales relacionados con personas y resultados de simulaciones anteriores.
+
+10
+00:00:58.067 --> 00:01:03.980
+Tercero, lanza una simulación de phishing de línea base, para saber desde dónde partimos.
+
+11
+00:01:03.980 --> 00:01:08.592
+Cuarto, una encuesta de cultura de seguridad, breve y anónima.
+
+12
+00:01:08.592 --> 00:01:19.780
+Y quinto, identifica los requisitos regulatorios: ISO veintisiete mil uno exige concienciación, NIS dos y DORA exigen formación incluso a la dirección, y el Esquema Nacional también.
+
+13
+00:01:19.780 --> 00:01:25.754
+Con todo esto redactas un informe de diagnóstico con los riesgos humanos prioritarios por colectivo.
+
+14
+00:01:26.704 --> 00:01:30.091
+Con el diagnóstico, defines objetivos.
+
+15
+00:01:30.041 --> 00:01:35.541
+Mi consejo: elige pocos comportamientos prioritarios, entre tres y cinco.
+
+16
+00:01:35.541 --> 00:01:55.754
+Por ejemplo, reportar correos sospechosos, verificar los cambios de pago, usar el gestor de contraseñas y no compartir información en herramientas de inteligencia artificial no autorizadas. Después conviértelos en objetivos medibles, lo que llamamos objetivos SMART: específicos, medibles, alcanzables, relevantes y con plazo.
+
+17
+00:01:55.754 --> 00:02:02.191
+Por ejemplo: aumentar la tasa de reporte de simulaciones por encima del cuarenta por ciento en doce meses.
+
+18
+00:02:02.191 --> 00:02:11.979
+Luego segmenta a la plantilla en colectivos: dirección, finanzas, recursos humanos, tecnología, atención al cliente y nuevas incorporaciones.
+
+19
+00:02:11.979 --> 00:02:19.554
+Y presenta todo al patrocinador del proyecto, normalmente el responsable de seguridad, y al comité, para que lo aprueben.
+
+20
+00:02:20.546 --> 00:02:24.246
+Con los objetivos, se construye un plan anual.
+
+21
+00:02:24.196 --> 00:02:26.671
+Te enseño un ejemplo típico.
+
+22
+00:02:26.671 --> 00:02:38.721
+En el primer trimestre, un lanzamiento con un mensaje del director general, que da peso al programa, y microcursos de pocos minutos sobre phishing y contraseñas, junto a la simulación de línea base y la encuesta.
+
+23
+00:02:38.721 --> 00:02:50.946
+En el segundo trimestre, un taller presencial para finanzas sobre fraude del CEO, el lanzamiento de la red de embajadores y una simulación de dificultad media, incluida una llamada de vishing al equipo de finanzas.
+
+24
+00:02:50.946 --> 00:03:00.633
+En el tercer trimestre se aprovecha octubre, mes europeo de la ciberseguridad, con retos y gamificación, y simulaciones con adjuntos o códigos QR.
+
+25
+00:03:00.633 --> 00:03:09.096
+Y en el cuarto, una sesión para el consejo sobre sus responsabilidades, una simulación avanzada, la encuesta final y el informe anual.
+
+26
+00:03:09.096 --> 00:03:12.796
+Fíjate en que formación y medición avanzan juntas.
+
+27
+00:03:13.788 --> 00:03:17.000
+Veamos cómo se diseña una simulación.
+
+28
+00:03:16.950 --> 00:03:28.263
+Primero, el escenario: debe ser realista y relevante, por ejemplo un aviso de paquetería, un mensaje de recursos humanos sobre vacaciones o una alerta de una herramienta corporativa.
+
+29
+00:03:28.263 --> 00:03:33.575
+Segundo, define y documenta la dificultad, para poder comparar campañas.
+
+30
+00:03:33.575 --> 00:03:42.913
+Tercero, la página de aterrizaje: si alguien hace clic, no le dices que ha fallado, le explicas en treinta segundos qué señales podía haber detectado.
+
+31
+00:03:42.913 --> 00:03:46.338
+Ese es el momento de aprendizaje más potente.
+
+32
+00:03:46.338 --> 00:04:00.425
+Cuarto, la parte técnica: añadir los dominios de la simulación a la lista blanca del correo y avisar al centro de soporte para que no se colapse. Quinto, enviar de forma escalonada durante varios días, para que la gente no se avise entre sí.
+
+33
+00:04:00.425 --> 00:04:06.625
+Hay muchas plataformas en el mercado, como KnowBe4, Proofpoint, Hoxhunt o la de Microsoft.
+
+34
+00:04:07.582 --> 00:04:09.932
+Qué contenidos funcionan?
+
+35
+00:04:09.882 --> 00:04:19.782
+Lo primero, el microaprendizaje: piezas de tres a cinco minutos, entregadas en el momento oportuno, por ejemplo justo después de caer en una simulación.
+
+36
+00:04:19.782 --> 00:04:29.257
+Segundo, historias y casos reales: la gente recuerda la historia de la empresa que perdió medio millón con un fraude del CEO, no la lista de diez normas.
+
+37
+00:04:29.257 --> 00:04:36.894
+Tercero, formatos interactivos: juegos, retos por equipos, escape rooms de ciberseguridad o concursos.
+
+38
+00:04:36.894 --> 00:04:41.982
+Cuarto, adaptados al rol y, en multinacionales, a varios idiomas.
+
+39
+00:04:41.982 --> 00:04:45.919
+Por eso el inglés profesional que pide la oferta es tan útil.
+
+40
+00:04:45.919 --> 00:04:51.307
+Quinto, accesibles para todas las personas, con subtítulos y buen contraste.
+
+41
+00:04:51.307 --> 00:04:56.844
+Y sexto, positivos: reconoce públicamente a los departamentos que más reportan.
+
+42
+00:04:56.844 --> 00:05:02.294
+El tono importa mucho: el miedo funciona un día, la confianza funciona años.
+
+43
+00:05:03.248 --> 00:05:06.410
+Un programa sin comunicación no existe.
+
+44
+00:05:06.360 --> 00:05:16.473
+Necesitas un plan de comunicación con los canales, como la intranet, el correo, Teams, pantallas o reuniones de equipo, un calendario y unos mensajes clave.
+
+45
+00:05:16.473 --> 00:05:24.585
+El patrocinio visible de la dirección es decisivo: un vídeo de un minuto del director general vale más que diez correos del equipo de seguridad.
+
+46
+00:05:24.585 --> 00:05:36.548
+Los embajadores, uno por departamento o por sede, multiplican el alcance: necesitan un kit con mensajes, presentaciones breves, preguntas frecuentes y un canal directo con el equipo de seguridad.
+
+47
+00:05:36.548 --> 00:05:44.098
+Y recoge retroalimentación de forma continua: qué contenido gustó, qué resultó pesado, qué dudas tiene la gente.
+
+48
+00:05:44.098 --> 00:05:50.848
+Como junior, probablemente prepararás estos materiales: cuida el diseño, la ortografía y el tono.
+
+49
+00:05:51.810 --> 00:05:54.685
+Y llegamos al informe a la dirección.
+
+50
+00:05:54.635 --> 00:05:59.585
+Empieza con una página de resumen ejecutivo y el mensaje principal primero.
+
+51
+00:05:59.585 --> 00:06:07.522
+Por ejemplo: la tasa de reporte ha pasado del doce al treinta y ocho por ciento, pero finanzas sigue siendo el colectivo más expuesto.
+
+52
+00:06:07.522 --> 00:06:13.647
+Después, gráficos de tendencia: reporte frente a clic, por trimestre y por colectivo.
+
+53
+00:06:13.647 --> 00:06:18.035
+Luego, los riesgos humanos prioritarios y cómo han evolucionado.
+
+54
+00:06:18.035 --> 00:06:25.697
+Compara con los objetivos que se aprobaron, y ten cuidado con las comparativas con el sector, porque cada empresa mide distinto.
+
+55
+00:06:25.697 --> 00:06:35.285
+Y termina siempre con recomendaciones y con las decisiones concretas que pides a la dirección, por ejemplo, presupuesto para un programa específico en finanzas.
+
+56
+00:06:35.285 --> 00:06:39.285
+Un informe que no pide decisiones es solo un informe bonito.
+
+57
+00:06:40.252 --> 00:06:43.539
+Para terminar, los errores que más se ven.
+
+58
+00:06:43.489 --> 00:06:51.202
+Diseñar simulaciones imposibles para pillar a la gente y presumir de una tasa de clics alta: eso no mide nada y genera rechazo.
+
+59
+00:06:51.202 --> 00:06:55.102
+Castigar a quien cae, que destruye la cultura de reporte.
+
+60
+00:06:55.102 --> 00:06:58.652
+Medir solo el porcentaje de formación completada.
+
+61
+00:06:58.652 --> 00:07:03.177
+Repetir el mismo contenido genérico para todos y todos los años.
+
+62
+00:07:03.177 --> 00:07:11.052
+No coordinar con soporte, recursos humanos o el delegado de protección de datos, lo que provoca quejas y problemas legales.
+
+63
+00:07:11.052 --> 00:07:18.964
+Y medir sin actuar: si los datos dicen que finanzas tiene un problema y no haces nada específico, el programa pierde credibilidad.
+
+64
+00:07:18.964 --> 00:07:25.414
+En la web del curso tienes un laboratorio para diseñar tu propio plan y calcular las métricas de una campaña.
+
+65
+00:07:25.414 --> 00:07:30.277
+Hazlo: puede convertirse en un ejemplo muy potente para la entrevista.

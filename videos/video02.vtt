@@ -1,0 +1,277 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:03.000
+Bienvenido al segundo vídeo.
+
+2
+00:00:02.950 --> 00:00:07.275
+Para asesorar a una organización tienes que entender cómo la atacan.
+
+3
+00:00:07.275 --> 00:00:20.050
+En las áreas de privacidad y de gestión del riesgo humano esto es todavía más importante, porque la mayoría de los ataques empiezan por una persona: alguien que hace clic, que comparte una contraseña o que confía en una llamada.
+
+4
+00:00:20.050 --> 00:00:26.575
+Hoy vas a conocer los ataques que más daño hacen a las empresas, cómo reconocerlos y qué controles los frenan.
+
+5
+00:00:26.575 --> 00:00:34.062
+Al final del vídeo serás capaz de explicarle a un directivo, en dos minutos, por qué debe invertir en concienciación.
+
+6
+00:00:35.046 --> 00:00:38.608
+Empecemos con un dato que vas a usar muchísimo.
+
+7
+00:00:38.558 --> 00:00:57.246
+Según los informes anuales de Verizon sobre brechas de datos, conocidos como DBIR, alrededor del sesenta por ciento de las brechas analizadas en las ediciones recientes implican un elemento humano. Eso incluye errores, como enviar datos a quien no debes, caer en un engaño de ingeniería social o el uso de credenciales robadas.
+
+8
+00:00:57.246 --> 00:01:00.833
+Ojo, no lo uses para culpar a las personas.
+
+9
+00:01:00.833 --> 00:01:04.633
+Úsalo para justificar por qué hay que invertir en ellas.
+
+10
+00:01:04.633 --> 00:01:14.471
+Un consejo: en una entrevista, citar una fuente reconocida como el DBIR de Verizon, el informe de amenazas de ENISA o los datos del INCIBE da mucha credibilidad.
+
+11
+00:01:14.471 --> 00:01:19.246
+Y si no recuerdas la cifra exacta, di aproximadamente y la fuente.
+
+12
+00:01:19.246 --> 00:01:21.646
+Es mejor eso que inventar.
+
+13
+00:01:22.624 --> 00:01:31.811
+La ingeniería social es el arte de manipular a una persona para que haga algo que no debería: dar una contraseña, abrir un archivo o hacer una transferencia.
+
+14
+00:01:31.811 --> 00:01:36.436
+No ataca a la tecnología, ataca a nuestros sesgos y emociones.
+
+15
+00:01:36.436 --> 00:01:42.586
+Los atacantes usan la urgencia, el miedo, la autoridad, la curiosidad o la codicia.
+
+16
+00:01:42.586 --> 00:01:53.811
+Y usan muchos canales: el correo electrónico, el teléfono, que se llama vishing, los mensajes de texto, que se llaman smishing, las redes sociales o incluso visitas en persona.
+
+17
+00:01:53.811 --> 00:01:59.861
+Y hay una novedad clave que debes mencionar en tu entrevista: la inteligencia artificial generativa.
+
+18
+00:01:59.861 --> 00:02:07.799
+Hoy los atacantes escriben correos sin faltas de ortografía en cualquier idioma, clonan voces de directivos y crean vídeos falsos.
+
+19
+00:02:07.799 --> 00:02:12.924
+Por eso la formación clásica de buscar faltas de ortografía ya no es suficiente.
+
+20
+00:02:13.874 --> 00:02:16.636
+El phishing es el ataque estrella.
+
+21
+00:02:16.586 --> 00:02:29.686
+Es un mensaje que suplanta a alguien de confianza, como tu banco, un proveedor o el departamento de informática, para que hagas algo: introducir tu contraseña en una web falsa, abrir un adjunto con malware o pagar una factura.
+
+22
+00:02:29.686 --> 00:02:31.561
+Hay variantes.
+
+23
+00:02:31.561 --> 00:02:36.211
+El phishing masivo se envía a miles de personas esperando que alguna pique.
+
+24
+00:02:36.211 --> 00:02:44.636
+El spear phishing está dirigido a una persona concreta, usando información real sobre ella que el atacante saca, por ejemplo, de LinkedIn.
+
+25
+00:02:44.636 --> 00:02:53.499
+Y el whaling, o caza de ballenas, apunta a los altos directivos, porque tienen más poder para autorizar pagos o acceder a información sensible.
+
+26
+00:02:53.499 --> 00:03:00.024
+En los proyectos de riesgo humano harás simulaciones de phishing, así que conocer estas variantes es esencial.
+
+27
+00:03:01.020 --> 00:03:03.545
+Cómo se reconoce un phishing?
+
+28
+00:03:03.495 --> 00:03:06.107
+Enseña siempre estas señales.
+
+29
+00:03:06.107 --> 00:03:10.232
+Primero, el remitente: mira el dominio completo.
+
+30
+00:03:10.232 --> 00:03:15.570
+Erre ene, en lugar de eme, en rnicrosoft punto com es un truco clásico.
+
+31
+00:03:15.570 --> 00:03:20.695
+Segundo, la urgencia o la amenaza: tu cuenta se bloqueará en dos horas.
+
+32
+00:03:20.695 --> 00:03:27.757
+Tercero, los enlaces: antes de hacer clic, pasa el ratón por encima y comprueba a qué dirección lleva de verdad.
+
+33
+00:03:27.757 --> 00:03:34.982
+Cuarto, las peticiones inusuales: que te pidan contraseñas, pagos urgentes o un cambio de cuenta bancaria.
+
+34
+00:03:34.982 --> 00:03:45.770
+Y la regla de oro: ante la duda, verifica por otro canal, por ejemplo llamando a la persona a un número que ya conoces, y reporta el correo con el botón de reporte de tu empresa.
+
+35
+00:03:45.770 --> 00:03:50.570
+En la web del curso tienes un detector de phishing interactivo para practicar.
+
+36
+00:03:51.550 --> 00:03:59.925
+Uno de los ataques que más dinero cuesta a las empresas es el fraude del CEO, que forma parte de lo que en inglés se llama Business Email Compromise.
+
+37
+00:03:59.925 --> 00:04:14.387
+El atacante se hace pasar por el director general o por un proveedor y pide una transferencia urgente y confidencial. Fíjate en la trampa: muchas veces el correo no lleva enlaces ni adjuntos, solo texto, así que los filtros técnicos no lo detectan.
+
+38
+00:04:14.387 --> 00:04:20.500
+Ahora con voces clonadas por inteligencia artificial incluso llaman por teléfono imitando al jefe.
+
+39
+00:04:20.500 --> 00:04:22.500
+Cuál es el control?
+
+40
+00:04:22.500 --> 00:04:31.650
+Es un control de proceso, no tecnológico: cualquier pago o cambio de cuenta bancaria debe verificarse por un segundo canal y con doble aprobación.
+
+41
+00:04:31.650 --> 00:04:37.400
+Este es un ejemplo perfecto de por qué el área de gobierno y la de riesgo humano trabajan juntas.
+
+42
+00:04:38.384 --> 00:04:42.371
+Hablemos de malware, es decir, software malicioso.
+
+43
+00:04:42.321 --> 00:04:49.284
+Hay troyanos, que se disfrazan de algo legítimo, gusanos, que se propagan solos, o programas espía.
+
+44
+00:04:49.284 --> 00:04:57.346
+El más temido es el ransomware: cifra los datos de la empresa y pide un rescate, normalmente en criptomonedas, para devolverlos.
+
+45
+00:04:57.346 --> 00:05:04.784
+Hoy casi siempre es de doble extorsión: además de cifrar, los atacantes roban los datos y amenazan con publicarlos.
+
+46
+00:05:04.784 --> 00:05:14.896
+Eso convierte un problema de disponibilidad en un problema de confidencialidad y, por tanto, de privacidad, con posibles notificaciones a la autoridad de protección de datos.
+
+47
+00:05:14.896 --> 00:05:16.634
+Por dónde entra?
+
+48
+00:05:16.634 --> 00:05:22.046
+Sobre todo por phishing, por credenciales robadas y por vulnerabilidades sin parchear.
+
+49
+00:05:22.046 --> 00:05:29.896
+Los controles clave son copias de seguridad aisladas y probadas, doble factor, parcheo y, de nuevo, formación.
+
+50
+00:05:30.858 --> 00:05:35.345
+Las credenciales robadas son una de las principales puertas de entrada.
+
+51
+00:05:35.295 --> 00:05:46.558
+Las recomendaciones actuales, como las del NIST estadounidense, priorizan contraseñas largas, por ejemplo frases de paso, frente a obligar a meter símbolos raros y cambiarlas cada mes.
+
+52
+00:05:46.558 --> 00:05:52.983
+Además, usa una contraseña distinta para cada servicio, ayudándote de un gestor de contraseñas.
+
+53
+00:05:52.983 --> 00:06:04.870
+Pero el control estrella es el doble factor, o autenticación multifactor: combinar algo que sabes, como la contraseña, con algo que tienes, como el móvil, o algo que eres, como la huella.
+
+54
+00:06:04.870 --> 00:06:08.808
+Bloquea la gran mayoría de ataques de robo de credenciales.
+
+55
+00:06:08.808 --> 00:06:17.020
+Eso sí, los atacantes han inventado la fatiga de MFA: te bombardean con notificaciones hasta que aceptas una por cansancio.
+
+56
+00:06:17.020 --> 00:06:22.158
+Mensaje para los empleados: nunca aceptes una notificación que no has pedido tú.
+
+57
+00:06:23.140 --> 00:06:26.115
+No todas las amenazas vienen de fuera.
+
+58
+00:06:26.065 --> 00:06:43.052
+Las amenazas internas incluyen al empleado malintencionado que roba información antes de irse a la competencia, pero sobre todo incluyen errores: enviar un correo a la persona equivocada, subir un documento a una carpeta pública, perder un portátil sin cifrar o configurar mal un servicio en la nube.
+
+59
+00:06:43.052 --> 00:06:49.590
+Desde el punto de vista de la privacidad, muchas brechas de datos notificadas son simplemente errores humanos.
+
+60
+00:06:49.590 --> 00:07:04.427
+Los controles aquí combinan gobierno y personas: aplicar el mínimo privilegio, cifrar los dispositivos, tener un buen proceso de baja de empleados que retire accesos el mismo día, y sobre todo crear una cultura donde la gente reporte sus errores sin miedo.
+
+61
+00:07:04.427 --> 00:07:10.165
+Un error reportado en cinco minutos es mucho menos grave que uno escondido durante un mes.
+
+62
+00:07:11.150 --> 00:07:16.837
+Terminamos con algo muy práctico: tu discurso de dos minutos para convencer a un directivo.
+
+63
+00:07:16.787 --> 00:07:23.512
+Primero, un dato: la mayoría de las brechas tienen un componente humano según fuentes como el DBIR de Verizon.
+
+64
+00:07:23.512 --> 00:07:31.487
+Segundo, un ejemplo concreto: un solo fraude del CEO puede costar cientos de miles de euros y no lo frena ningún antivirus.
+
+65
+00:07:31.487 --> 00:07:43.525
+Tercero, la solución: combinar procesos, como la doble verificación de pagos, con tecnología, como el doble factor, y con cultura, mediante formación continua y simulaciones.
+
+66
+00:07:43.525 --> 00:07:49.687
+Y cuarto, cómo lo vamos a medir: no solo cuánta gente hace clic, sino cuánta gente reporta.
+
+67
+00:07:49.687 --> 00:07:52.637
+Practica este discurso en voz alta.
+
+68
+00:07:52.637 --> 00:07:57.150
+Es una pregunta muy típica de entrevista para el área de riesgo humano.
+
+69
+00:07:57.150 --> 00:08:02.386
+En el siguiente vídeo veremos cómo funciona el mundo de la consultoría de ciberseguridad.

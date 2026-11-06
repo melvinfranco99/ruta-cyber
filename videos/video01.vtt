@@ -1,0 +1,329 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:03.762
+Hola y bienvenido al primer vídeo del curso.
+
+2
+00:00:03.712 --> 00:00:13.787
+Aquí empieza tu ruta para trabajar como consultor junior de ciberseguridad en las áreas de gobierno, riesgo, cumplimiento, privacidad y gestión del riesgo humano.
+
+3
+00:00:13.787 --> 00:00:23.612
+En este vídeo vamos a construir los cimientos: el vocabulario que vas a escuchar todos los días en un proyecto y que te van a preguntar, seguro, en la entrevista.
+
+4
+00:00:23.612 --> 00:00:31.575
+Si dominas estos conceptos y sabes explicarlos con ejemplos sencillos, ya tendrás una ventaja enorme sobre otros candidatos.
+
+5
+00:00:31.575 --> 00:00:35.212
+Coge papel y boli, porque vamos paso a paso.
+
+6
+00:00:36.198 --> 00:00:38.573
+Empecemos por lo básico.
+
+7
+00:00:38.523 --> 00:00:52.535
+La ciberseguridad es el conjunto de medidas que protegen la información y los sistemas que la tratan frente a amenazas. Esas amenazas pueden venir de fuera, como un grupo criminal, o de dentro, como un empleado que se equivoca al enviar un correo.
+
+8
+00:00:52.535 --> 00:00:57.398
+Y fíjate en algo importante: la ciberseguridad no es solo tecnología.
+
+9
+00:00:57.398 --> 00:01:02.248
+Se apoya en tres pilares: personas, procesos y tecnología.
+
+10
+00:01:02.248 --> 00:01:12.910
+En las áreas en las que vas a trabajar, gobierno, cumplimiento, privacidad y riesgo humano, te centrarás mucho más en las personas y en los procesos que en configurar cortafuegos.
+
+11
+00:01:12.910 --> 00:01:18.060
+Y una idea que debes repetir como un mantra: la seguridad perfecta no existe.
+
+12
+00:01:25.024 --> 00:01:33.524
+El concepto más famoso de la ciberseguridad es la tríada CIA, por sus siglas en inglés: Confidentiality, Integrity y Availability.
+
+13
+00:01:33.524 --> 00:01:37.911
+En español, confidencialidad, integridad y disponibilidad.
+
+14
+00:01:37.911 --> 00:01:43.186
+La confidencialidad significa que solo accede a la información quien está autorizado.
+
+15
+00:01:43.186 --> 00:01:49.374
+La integridad significa que la información es exacta y completa, y que nadie la modifica sin control.
+
+16
+00:01:49.374 --> 00:01:55.749
+Y la disponibilidad significa que la información y los sistemas están accesibles cuando el negocio los necesita.
+
+17
+00:01:55.749 --> 00:02:07.586
+En España, el Esquema Nacional de Seguridad añade dos dimensiones más: la autenticidad, es decir, saber que alguien es quien dice ser, y la trazabilidad, poder saber quién hizo qué y cuándo.
+
+18
+00:02:07.586 --> 00:02:13.799
+Memoriza estas cinco dimensiones porque aparecen en casi todas las metodologías de análisis de riesgos.
+
+19
+00:02:14.786 --> 00:02:19.061
+Vamos a aterrizarlo con ejemplos que verás en clientes reales.
+
+20
+00:02:19.011 --> 00:02:25.386
+Confidencialidad: un empleado de recursos humanos envía por error un Excel con las nóminas a un proveedor.
+
+21
+00:02:25.386 --> 00:02:32.148
+Los controles típicos son clasificar la información, cifrarla y usar herramientas de prevención de fuga de datos.
+
+22
+00:02:32.148 --> 00:02:40.248
+Integridad: un atacante consigue cambiar el número de cuenta bancaria en una factura de un proveedor, y la empresa paga a los delincuentes.
+
+23
+00:02:40.248 --> 00:02:45.273
+El control es exigir una doble validación de cualquier cambio de datos bancarios.
+
+24
+00:02:45.273 --> 00:02:51.048
+Disponibilidad: un ransomware cifra los servidores y la tienda online está caída tres días.
+
+25
+00:02:51.048 --> 00:02:55.023
+Aquí entran las copias de seguridad y los planes de continuidad.
+
+26
+00:02:55.023 --> 00:03:02.861
+Un truco para la entrevista: cuando te pregunten por un incidente, clasifícalo siempre según qué dimensión se ha visto afectada.
+
+27
+00:03:02.861 --> 00:03:05.648
+Demuestra pensamiento estructurado.
+
+28
+00:03:06.636 --> 00:03:12.086
+Ahora tres palabras que la gente confunde constantemente, y que tú no vas a confundir.
+
+29
+00:03:12.036 --> 00:03:23.911
+Un activo es cualquier cosa que tenga valor para la organización: una base de datos de clientes, un servidor, una aplicación, pero también las personas, el conocimiento o la reputación de la marca.
+
+30
+00:03:23.911 --> 00:03:33.136
+Una amenaza es aquello que puede causar daño a un activo: un ciberdelincuente, un empleado descontento, un incendio o simplemente un error humano.
+
+31
+00:03:33.136 --> 00:03:37.673
+Y una vulnerabilidad es una debilidad que la amenaza puede aprovechar.
+
+32
+00:03:37.673 --> 00:03:49.436
+Por ejemplo: el activo es la base de datos de clientes, la amenaza es un ataque de phishing para robar contraseñas, y la vulnerabilidad es que la empresa no tiene activado el doble factor de autenticación.
+
+33
+00:03:49.436 --> 00:03:53.973
+Si eliminamos la vulnerabilidad, la amenaza pierde su oportunidad.
+
+34
+00:03:54.958 --> 00:03:59.695
+Llegamos a la palabra más importante de tu futuro trabajo: riesgo.
+
+35
+00:03:59.645 --> 00:04:05.783
+El riesgo es la posibilidad de que una amenaza aproveche una vulnerabilidad y cause un daño a un activo.
+
+36
+00:04:05.783 --> 00:04:11.320
+Y para medirlo usamos una fórmula muy simple: riesgo igual a probabilidad por impacto.
+
+37
+00:04:11.320 --> 00:04:15.245
+La probabilidad mide lo fácil o frecuente que es que ocurra.
+
+38
+00:04:15.245 --> 00:04:23.595
+El impacto mide cuánto daño causa al negocio: dinero, multas, reputación, o incluso la seguridad de las personas.
+
+39
+00:04:23.595 --> 00:04:26.720
+Además, distinguimos dos momentos.
+
+40
+00:04:26.720 --> 00:04:30.858
+El riesgo inherente es el riesgo antes de aplicar controles.
+
+41
+00:04:30.858 --> 00:04:34.683
+El riesgo residual es el que queda después de aplicarlos.
+
+42
+00:04:34.683 --> 00:04:41.245
+La pregunta clave que se hace la dirección es: ¿el riesgo residual está por debajo de nuestro apetito de riesgo?
+
+43
+00:04:41.245 --> 00:04:44.620
+Si la respuesta es sí, lo aceptamos.
+
+44
+00:04:44.620 --> 00:04:47.445
+Si es no, tenemos que actuar.
+
+45
+00:04:48.440 --> 00:04:54.390
+Para reducir el riesgo aplicamos controles, también llamados salvaguardas o medidas de seguridad.
+
+46
+00:04:54.340 --> 00:04:57.465
+Los podemos clasificar por su función.
+
+47
+00:04:57.465 --> 00:05:03.752
+Los preventivos intentan que el incidente no ocurra, como el doble factor o la formación de empleados.
+
+48
+00:05:03.752 --> 00:05:09.952
+Los detectivos lo descubren cuando está ocurriendo, como la monitorización o la revisión de registros.
+
+49
+00:05:09.952 --> 00:05:14.702
+Y los correctivos reparan el daño, como restaurar una copia de seguridad.
+
+50
+00:05:14.702 --> 00:05:17.840
+También se clasifican por su naturaleza.
+
+51
+00:05:17.840 --> 00:05:29.377
+De hecho, la norma ISO veintisiete mil uno en su versión de dos mil veintidós agrupa sus noventa y tres controles en cuatro temas: organizativos, de personas, físicos y tecnológicos.
+
+52
+00:05:29.377 --> 00:05:39.015
+Como consultor de gobierno y cumplimiento, gran parte de tu trabajo será revisar si estos controles existen, si están documentados y si de verdad funcionan.
+
+53
+00:05:39.978 --> 00:05:43.853
+Un principio que debes conocer es la defensa en profundidad.
+
+54
+00:05:43.803 --> 00:05:50.628
+La idea es como un castillo medieval: no hay un único muro, hay foso, murallas, torres y guardias.
+
+55
+00:05:50.628 --> 00:05:58.978
+En una empresa, las capas son las políticas, las personas, la red, los equipos, las aplicaciones y los propios datos.
+
+56
+00:05:58.978 --> 00:06:09.340
+Si un atacante supera una capa, por ejemplo consigue que alguien haga clic en un enlace malicioso, la siguiente capa, como el antivirus o el doble factor, debe frenarle.
+
+57
+00:06:09.340 --> 00:06:19.153
+Y fíjate en un matiz que te hará destacar en el área de riesgo humano: hoy no se habla de las personas como el eslabón más débil, sino como una capa de defensa que hay que reforzar.
+
+58
+00:06:19.153 --> 00:06:25.078
+Un empleado bien formado que reporta un correo sospechoso es un sensor de seguridad muy valioso.
+
+59
+00:06:26.068 --> 00:06:30.243
+Vamos con cuatro principios más que salen en cualquier auditoría.
+
+60
+00:06:30.193 --> 00:06:36.343
+El mínimo privilegio dice que cada usuario debe tener solo los permisos imprescindibles para su trabajo.
+
+61
+00:06:36.343 --> 00:06:42.180
+La necesidad de saber es su primo hermano: solo accedes a la información que tu función requiere.
+
+62
+00:06:42.180 --> 00:06:52.880
+La segregación de funciones significa que ninguna persona debe controlar un proceso crítico de principio a fin; por ejemplo, quien da de alta un proveedor no debería ser quien aprueba sus pagos.
+
+63
+00:06:52.880 --> 00:07:05.080
+Y el enfoque Zero Trust, o confianza cero, dice que no debemos confiar en nada por el simple hecho de estar dentro de la red corporativa: verificamos siempre la identidad, el dispositivo y el contexto.
+
+64
+00:07:05.080 --> 00:07:10.830
+Cuando revises procesos en un cliente, pregúntate siempre si se cumplen estos principios.
+
+65
+00:07:11.798 --> 00:07:17.998
+Ahora unamos las piezas, porque este es exactamente el flujo de un proyecto de análisis de riesgos.
+
+66
+00:07:17.948 --> 00:07:21.948
+Primero identificas los activos y su valor para el negocio.
+
+67
+00:07:21.948 --> 00:07:26.823
+Segundo, analizas qué amenazas les afectan y qué vulnerabilidades tienen.
+
+68
+00:07:26.823 --> 00:07:31.435
+Tercero, calculas el riesgo combinando probabilidad e impacto.
+
+69
+00:07:31.435 --> 00:07:36.960
+Cuarto, eliges los controles adecuados y vuelves a calcular el riesgo residual.
+
+70
+00:07:36.960 --> 00:07:44.235
+Y quinto, revisas periódicamente, porque las amenazas cambian, la empresa cambia y los controles se degradan.
+
+71
+00:07:44.235 --> 00:07:50.098
+Este ciclo de mejora continua es la base de las normas ISO y de casi cualquier marco de seguridad.
+
+72
+00:07:50.098 --> 00:07:55.548
+En los vídeos de nivel intermedio lo pondremos en práctica con una matriz de riesgos real.
+
+73
+00:07:56.544 --> 00:08:00.744
+Para cerrar, un ejercicio práctico que te recomiendo de verdad.
+
+74
+00:08:00.694 --> 00:08:06.319
+Elige una organización que conozcas bien, por ejemplo tu universidad o un supermercado.
+
+75
+00:08:06.319 --> 00:08:11.106
+Identifica tres activos, tres amenazas y tres vulnerabilidades.
+
+76
+00:08:11.106 --> 00:08:17.444
+Después clasifica cada riesgo según si afecta a la confidencialidad, a la integridad o a la disponibilidad.
+
+77
+00:08:17.444 --> 00:08:22.856
+Y para terminar, propón un control preventivo, uno detectivo y uno correctivo.
+
+78
+00:08:22.856 --> 00:08:29.244
+Si eres capaz de hacer esto en cinco minutos y explicarlo en voz alta, ya piensas como un consultor.
+
+79
+00:08:29.244 --> 00:08:35.269
+En la web del curso tienes el laboratorio clasificador CIA para practicar y el test del módulo uno.
+
+80
+00:08:35.269 --> 00:08:43.306
+Resumen de hoy: la seguridad gestiona riesgos, el riesgo es probabilidad por impacto, y los controles reducen ese riesgo.
+
+81
+00:08:43.306 --> 00:08:47.194
+En el próximo vídeo veremos las amenazas más comunes.
+
+82
+00:08:47.194 --> 00:08:48.819
+Nos vemos!

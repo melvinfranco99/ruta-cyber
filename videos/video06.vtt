@@ -1,0 +1,313 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:06.787
+En este vídeo vamos a hacer lo que más hace un consultor de gobierno y riesgo: un análisis de riesgos.
+
+2
+00:00:06.737 --> 00:00:14.637
+Te voy a enseñar una metodología práctica, la que podrías usar el lunes en un cliente, paso a paso y con un ejemplo completo.
+
+3
+00:00:14.637 --> 00:00:24.750
+Verás cómo se valora la probabilidad y el impacto, cómo se construye una matriz de riesgos, qué opciones de tratamiento existen y cómo se presenta el resultado a la dirección.
+
+4
+00:00:24.750 --> 00:00:32.950
+También conocerás las metodologías de referencia en España, como MAGERIT, y a nivel internacional, como ISO veintisiete mil cinco.
+
+5
+00:00:33.918 --> 00:00:40.505
+La gestión de riesgos sigue un proceso que comparten ISO treinta y un mil, ISO veintisiete mil cinco y MAGERIT.
+
+6
+00:00:40.455 --> 00:00:49.018
+Primero, establecer el contexto y los criterios: qué escala usamos, qué impacto es alto y cuál es el apetito de riesgo de la empresa.
+
+7
+00:00:49.018 --> 00:00:54.830
+Segundo, identificar los riesgos a partir de activos, amenazas y vulnerabilidades.
+
+8
+00:00:54.830 --> 00:00:59.305
+Tercero, analizarlos, asignando probabilidad e impacto.
+
+9
+00:00:59.305 --> 00:01:05.768
+Cuarto, evaluarlos, comparando cada riesgo con el apetito para decidir cuáles requieren acción.
+
+10
+00:01:05.768 --> 00:01:08.218
+Quinto, tratarlos.
+
+11
+00:01:08.218 --> 00:01:16.993
+Y sexto, comunicar los resultados, monitorizar y revisar periódicamente, al menos una vez al año o cuando haya cambios importantes.
+
+12
+00:01:16.993 --> 00:01:24.130
+Si en la entrevista te piden explicar cómo harías un análisis de riesgos, recita estos seis pasos y pon un ejemplo.
+
+13
+00:01:24.130 --> 00:01:26.455
+Es una respuesta de diez.
+
+14
+00:01:27.448 --> 00:01:31.785
+Antes de valorar ningún riesgo, hay que definir las escalas.
+
+15
+00:01:31.735 --> 00:01:36.135
+Si no, cada persona entenderá alto de una manera distinta.
+
+16
+00:01:36.135 --> 00:01:39.285
+Una escala típica tiene cinco niveles.
+
+17
+00:01:39.285 --> 00:01:45.623
+Para la probabilidad usamos frecuencias: desde menos de una vez cada cinco años hasta varias veces al mes.
+
+18
+00:01:45.623 --> 00:01:54.010
+Para el impacto usamos criterios de negocio: económico, operativo, legal, reputacional e incluso de seguridad de las personas.
+
+19
+00:01:54.010 --> 00:02:05.885
+Por ejemplo, un impacto medio sería una interrupción de horas, una pérdida de hasta cien mil euros y quejas de clientes, mientras que uno muy alto sería una multa elevada o aparecer en la prensa nacional.
+
+20
+00:02:05.885 --> 00:02:13.385
+Estos umbrales se adaptan a cada cliente: cien mil euros es una catástrofe para una pyme y una anécdota para un gran banco.
+
+21
+00:02:13.385 --> 00:02:18.760
+Validar estas escalas con la dirección es el primer entregable de un análisis de riesgos.
+
+22
+00:02:19.754 --> 00:02:25.904
+Un error típico de juniors es redactar riesgos demasiado genéricos, como riesgo de ciberataque.
+
+23
+00:02:25.854 --> 00:02:28.504
+Eso no ayuda a nadie a decidir.
+
+24
+00:02:28.504 --> 00:02:32.141
+Usa la fórmula causa, evento y consecuencia.
+
+25
+00:02:32.141 --> 00:02:48.229
+Por ejemplo: debido a la falta de doble factor en el correo electrónico, causa, un atacante podría robar credenciales mediante phishing y acceder a los datos de clientes, evento, provocando una brecha de datos notificable a la autoridad y posibles sanciones, consecuencia.
+
+26
+00:02:48.229 --> 00:02:52.154
+Así de concreto, el riesgo ya sugiere el control.
+
+27
+00:02:52.154 --> 00:02:54.591
+De dónde salen los riesgos?
+
+28
+00:02:54.591 --> 00:03:07.529
+De entrevistas con responsables, de talleres con el negocio, de incidentes anteriores, de informes de auditoría, de catálogos de amenazas como el de MAGERIT o el de ENISA, y de la propia experiencia del equipo consultor.
+
+29
+00:03:08.508 --> 00:03:11.070
+Hagamos un ejemplo completo.
+
+30
+00:03:11.020 --> 00:03:14.608
+Activo: el proceso de pagos a proveedores.
+
+31
+00:03:14.608 --> 00:03:22.408
+Amenaza: suplantación de un directivo mediante correo y, cada vez más, voz clonada con inteligencia artificial.
+
+32
+00:03:22.408 --> 00:03:27.595
+Vulnerabilidad: no existe un procedimiento de verificación por un segundo canal.
+
+33
+00:03:27.595 --> 00:03:34.558
+Valoramos: la probabilidad es alta, un cuatro, porque estos intentos son frecuentes en empresas grandes.
+
+34
+00:03:34.558 --> 00:03:40.845
+El impacto también es alto, un cuatro, porque una transferencia puede ser de cientos de miles de euros.
+
+35
+00:03:40.845 --> 00:03:44.783
+Cuatro por cuatro, dieciséis: riesgo alto.
+
+36
+00:03:44.783 --> 00:03:53.558
+Tratamiento: un procedimiento de doble verificación de pagos y de cambios de cuenta bancaria, más formación específica para el equipo de finanzas.
+
+37
+00:03:53.558 --> 00:04:01.620
+Riesgo residual: la probabilidad baja a dos, el impacto sigue en cuatro, dos por cuatro, ocho: riesgo medio.
+
+38
+00:04:01.620 --> 00:04:06.383
+Fíjate en que los controles suelen bajar la probabilidad más que el impacto.
+
+39
+00:04:07.342 --> 00:04:12.554
+El resultado se presenta en una matriz de riesgos, también llamada mapa de calor.
+
+40
+00:04:12.504 --> 00:04:18.867
+En un eje se sitúa la probabilidad y en el otro el impacto, y cada celda tiene un color según el producto.
+
+41
+00:04:18.867 --> 00:04:24.992
+Un esquema habitual es este: del uno al cuatro, verde, riesgo aceptable que se vigila.
+
+42
+00:04:24.992 --> 00:04:29.992
+Del cinco al nueve, amarillo, riesgo medio que se trata a medio plazo.
+
+43
+00:04:29.992 --> 00:04:35.392
+Del diez al catorce, naranja, riesgo alto con plan de acción prioritario.
+
+44
+00:04:35.392 --> 00:04:42.279
+Y del quince al veinticinco, rojo, riesgo crítico que exige acción inmediata y escalado a la dirección.
+
+45
+00:04:42.279 --> 00:04:49.867
+Un consejo de presentación: muestra dos mapas, el de riesgo inherente y el de riesgo residual, uno al lado del otro.
+
+46
+00:04:49.867 --> 00:04:56.804
+Visualmente se ve el valor de los controles propuestos, y eso ayuda mucho a que la dirección apruebe el presupuesto.
+
+47
+00:04:56.804 --> 00:05:00.192
+En la web tienes una calculadora interactiva.
+
+48
+00:05:01.160 --> 00:05:05.885
+Una vez evaluado, cada riesgo se trata con una de cuatro opciones.
+
+49
+00:05:05.835 --> 00:05:11.110
+Mitigar o reducir: aplicar controles para bajar la probabilidad o el impacto.
+
+50
+00:05:11.110 --> 00:05:13.347
+Es la opción más común.
+
+51
+00:05:13.347 --> 00:05:21.560
+Transferir o compartir: pasar parte del riesgo a un tercero, por ejemplo contratando un ciberseguro o externalizando un servicio.
+
+52
+00:05:21.560 --> 00:05:30.410
+Pero ojo, la responsabilidad legal no se transfiere: si tu proveedor pierde los datos de tus clientes, ante la autoridad sigues respondiendo tú.
+
+53
+00:05:30.410 --> 00:05:37.035
+Evitar: dejar de hacer la actividad que genera el riesgo, por ejemplo no almacenar los datos de tarjetas.
+
+54
+00:05:37.035 --> 00:05:45.947
+Y aceptar o asumir: decidir conscientemente no hacer nada más, porque el riesgo está dentro del apetito o porque el control cuesta más que el daño.
+
+55
+00:05:45.947 --> 00:05:52.585
+La aceptación debe ser formal, por escrito y firmada por el propietario del riesgo, no por el consultor.
+
+56
+00:05:53.562 --> 00:05:56.687
+Conoce las metodologías de referencia.
+
+57
+00:05:56.637 --> 00:06:07.912
+MAGERIT, en su versión tres, es la metodología del Gobierno de España para analizar riesgos de sistemas de información, y se apoya en la herramienta PILAR del Centro Criptológico Nacional.
+
+58
+00:06:07.912 --> 00:06:11.312
+Es muy usada con el Esquema Nacional de Seguridad.
+
+59
+00:06:11.312 --> 00:06:22.649
+ISO veintisiete mil cinco, revisada en dos mil veintidós, es la guía internacional de gestión de riesgos de seguridad de la información y admite enfoques basados en activos o en escenarios.
+
+60
+00:06:22.649 --> 00:06:28.049
+ISO treinta y un mil es la norma genérica de gestión de riesgos para cualquier tipo de riesgo.
+
+61
+00:06:28.049 --> 00:06:33.224
+La publicación ochocientos treinta del NIST es una guía estadounidense muy completa.
+
+62
+00:06:33.224 --> 00:06:40.137
+Y FAIR es un modelo para cuantificar el riesgo en euros, cada vez más demandado por los consejos de administración.
+
+63
+00:06:40.137 --> 00:06:44.549
+No necesitas dominarlas todas, pero sí saber qué es cada una.
+
+64
+00:06:45.532 --> 00:06:54.982
+En la práctica, todo esto vive en un registro de riesgos, normalmente un Excel o una herramienta GRC como ServiceNow, Archer u otras similares.
+
+65
+00:06:54.982 --> 00:07:16.957
+Las columnas típicas son: identificador, descripción con la fórmula causa, evento y consecuencia, categoría, activo afectado, propietario del riesgo, probabilidad, impacto y nivel inherente, controles existentes, controles propuestos, nivel residual, decisión de tratamiento, responsable de la acción, fecha prevista y estado.
+
+66
+00:07:16.957 --> 00:07:21.594
+Como junior, te pedirán mantener este registro limpio y coherente.
+
+67
+00:07:21.594 --> 00:07:28.894
+Usa listas desplegables para las escalas, formato condicional para los colores y fórmulas para calcular los niveles.
+
+68
+00:07:28.894 --> 00:07:33.732
+Y revisa siempre que no haya riesgos sin propietario o acciones sin fecha.
+
+69
+00:07:33.732 --> 00:07:37.132
+En la web tienes una calculadora para practicar.
+
+70
+00:07:38.150 --> 00:07:39.862
+Resumen.
+
+71
+00:07:39.812 --> 00:07:52.337
+Un análisis de riesgos empieza por acordar escalas con la dirección, sigue identificando riesgos bien redactados, los valora con probabilidad e impacto, los compara con el apetito de riesgo y decide cómo tratarlos.
+
+72
+00:07:52.337 --> 00:07:54.887
+Y se repite periódicamente.
+
+73
+00:07:54.887 --> 00:08:00.637
+Te propongo un ejercicio: analiza cinco riesgos de una clínica dental de tamaño medio.
+
+74
+00:08:00.637 --> 00:08:06.837
+Piensa en su agenda online, las historias clínicas, los pagos, el ransomware y los empleados.
+
+75
+00:08:06.837 --> 00:08:15.537
+Una pista: los datos de salud son una categoría especial según el reglamento de protección de datos, así que el impacto de una brecha es mayor.
+
+76
+00:08:15.537 --> 00:08:20.150
+Valora cada riesgo, colócalo en la matriz y propón un tratamiento.
+
+77
+00:08:20.150 --> 00:08:24.475
+Después compáralo con la solución que tienes en la web del curso.
+
+78
+00:08:24.475 --> 00:08:28.250
+En el próximo vídeo entramos en el mundo de la privacidad.

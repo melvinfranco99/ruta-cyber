@@ -1,0 +1,249 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:03.725
+Este es el vídeo más práctico del curso.
+
+2
+00:00:03.675 --> 00:00:09.475
+Vamos a vivir un proyecto completo, de principio a fin, como si estuvieras en el equipo.
+
+3
+00:00:09.475 --> 00:00:27.250
+El cliente es ficticio pero muy realista: LogiPlus, una empresa española de logística con mil doscientos empleados, que quiere certificarse en ISO veintisiete mil uno porque se lo exigen sus grandes clientes, revisar su cumplimiento de protección de datos y lanzar un programa de concienciación tras un fraude del CEO.
+
+4
+00:00:27.250 --> 00:00:33.125
+Verás cada fase, qué hace cada rol y, sobre todo, qué haces tú como analista junior.
+
+5
+00:00:34.110 --> 00:00:36.335
+Situación de partida.
+
+6
+00:00:36.285 --> 00:00:42.535
+LogiPlus es una empresa de logística con mil doscientos empleados, cinco almacenes y sede en Madrid.
+
+7
+00:00:42.535 --> 00:00:53.097
+Sus grandes clientes, cadenas de distribución y comercio electrónico, le exigen la certificación ISO veintisiete mil uno en un plazo de doce meses o dejarán de trabajar con ella.
+
+8
+00:00:53.097 --> 00:01:01.372
+Hace tres meses sufrieron un fraude del CEO: alguien suplantó al director financiero y consiguieron una transferencia de ciento ochenta mil euros.
+
+9
+00:01:01.372 --> 00:01:10.135
+Tratan muchos datos personales: de empleados, de conductores con geolocalización de sus vehículos, y de los destinatarios de los paquetes.
+
+10
+00:01:10.135 --> 00:01:16.510
+Y además, por el sector del transporte y su tamaño, podrían ser entidad importante según NIS dos.
+
+11
+00:01:16.510 --> 00:01:24.672
+Primera lección: antes de cualquier reunión, el equipo prepara una ficha del cliente con su sector, noticias y regulación aplicable.
+
+12
+00:01:24.672 --> 00:01:27.485
+Esa ficha suele hacerla el junior.
+
+13
+00:01:28.456 --> 00:01:32.568
+El proyecto empieza con la reunión de arranque, el kick-off.
+
+14
+00:01:32.518 --> 00:01:41.906
+Se presentan los objetivos, el alcance, el equipo, el calendario y los riesgos del propio proyecto, como la disponibilidad de las personas del cliente.
+
+15
+00:01:41.906 --> 00:01:50.193
+El equipo de la consultora tiene un socio responsable, un manager que dirige el día a día, un senior y dos analistas, uno de ellos tú.
+
+16
+00:01:50.193 --> 00:01:57.893
+Se acuerda un seguimiento semanal con el responsable de seguridad del cliente y un comité mensual con la dirección. ¿Qué haces tú?
+
+17
+00:01:57.893 --> 00:02:13.356
+Preparas la presentación del arranque con la plantilla de la firma, y preparas la lista de peticiones de documentación: políticas, organigrama, inventario de sistemas, contratos con proveedores, registro de actividades de tratamiento, resultados de formación.
+
+18
+00:02:13.356 --> 00:02:17.006
+Y luego haces seguimiento de qué ha llegado y qué falta.
+
+19
+00:02:17.006 --> 00:02:21.706
+Parece sencillo, pero un buen control de evidencias salva proyectos.
+
+20
+00:02:22.658 --> 00:02:26.245
+Del mes uno al mes y medio, el diagnóstico.
+
+21
+00:02:26.195 --> 00:02:34.833
+Se hacen unas quince entrevistas con tecnología, recursos humanos, finanzas, legal, operaciones y responsables de almacén.
+
+22
+00:02:34.833 --> 00:02:42.320
+Con ellas y con la documentación se hace el análisis de diferencias frente a ISO veintisiete mil uno, cláusulas y controles.
+
+23
+00:02:42.320 --> 00:02:57.420
+En paralelo, la revisión de protección de datos: el registro de actividades está desactualizado, faltan contratos de encargo con dos proveedores y la geolocalización de los conductores funciona también fuera del horario laboral, lo que es desproporcionado.
+
+24
+00:02:57.420 --> 00:03:04.808
+Y se lanza una simulación de phishing de línea base: veintidós por ciento de clics y solo un seis por ciento de reportes.
+
+25
+00:03:14.172 --> 00:03:18.297
+Este es el resumen del diagnóstico que se presentó al comité.
+
+26
+00:03:18.247 --> 00:03:28.084
+En gobierno del sistema, un treinta y cinco por ciento de cumplimiento: no hay alcance definido, no hay análisis de riesgos y nunca se ha hecho una auditoría interna.
+
+27
+00:03:28.084 --> 00:03:39.747
+En los controles del Anexo A, un cuarenta y ocho por ciento, con las principales carencias en gestión de proveedores, continuidad de negocio, registros de actividad y clasificación de la información.
+
+28
+00:03:39.747 --> 00:03:48.572
+En privacidad, un cincuenta y cinco por ciento, por el registro desactualizado, los contratos de encargo pendientes y la geolocalización.
+
+29
+00:03:48.572 --> 00:04:00.797
+Y en riesgo humano, una madurez baja: solo un curso genérico anual, veintidós por ciento de clics y, lo más grave, ningún procedimiento de verificación de pagos, que fue la causa raíz del fraude.
+
+30
+00:04:00.797 --> 00:04:07.134
+Fíjate en cómo se presenta: porcentaje claro y los gaps más importantes, no la lista completa.
+
+31
+00:04:08.110 --> 00:04:11.485
+A continuación, el análisis de riesgos.
+
+32
+00:04:11.435 --> 00:04:16.485
+Se hace un taller con la dirección para acordar las escalas y el apetito de riesgo.
+
+33
+00:04:16.485 --> 00:04:21.722
+Se identifican treinta y ocho riesgos, de los cuales seis son altos o críticos.
+
+34
+00:04:21.722 --> 00:04:28.510
+El primero de la lista es el fraude en pagos, con probabilidad cuatro e impacto cinco, porque ya ha ocurrido.
+
+35
+00:04:28.510 --> 00:04:37.885
+Otros riesgos altos son el ransomware en los sistemas de gestión de almacenes, que pararía la operación, y la dependencia de un proveedor de transporte sin evaluar.
+
+36
+00:04:37.885 --> 00:04:47.585
+Con esto se define un plan de tratamiento de veinticuatro iniciativas priorizadas en una hoja de ruta a doce meses, y la primera versión de la declaración de aplicabilidad.
+
+37
+00:04:47.585 --> 00:04:55.410
+Tu papel: mantener el registro de riesgos, preparar el borrador de la declaración y revisar que los cálculos y los colores cuadran.
+
+38
+00:04:55.410 --> 00:04:59.910
+Un error de cálculo en un riesgo crítico se nota mucho en un comité.
+
+39
+00:05:00.872 --> 00:05:04.422
+Del tercer al noveno mes, la implantación.
+
+40
+00:05:04.372 --> 00:05:11.609
+En gobierno: se aprueba la política de seguridad, se crea el comité y se define una matriz de responsabilidades.
+
+41
+00:05:11.609 --> 00:05:19.684
+Se redactan procedimientos de control de accesos, de gestión de proveedores, de incidentes y brechas de datos, y de continuidad.
+
+42
+00:05:19.684 --> 00:05:31.047
+En privacidad: se actualiza el registro de actividades, se firman los contratos de encargo y se hace una evaluación de impacto de la geolocalización, que termina limitándola al horario laboral.
+
+43
+00:05:31.047 --> 00:05:42.072
+Para el riesgo crítico de pagos: un procedimiento de doble verificación por un segundo canal y un aviso automático en el sistema de gestión cada vez que alguien cambia una cuenta bancaria.
+
+44
+00:05:42.072 --> 00:05:47.622
+Y el programa de concienciación por colectivos, con un taller específico para finanzas.
+
+45
+00:05:47.622 --> 00:05:54.184
+Tú redactas borradores, preparas materiales de formación y vas recopilando las evidencias que pedirá el auditor.
+
+46
+00:05:55.146 --> 00:05:58.533
+En los últimos meses, la recta final.
+
+47
+00:05:58.483 --> 00:06:04.996
+Una auditoría interna, realizada por un equipo distinto al que implantó, para mantener la independencia.
+
+48
+00:06:04.996 --> 00:06:09.158
+La revisión por la dirección, con los primeros indicadores.
+
+49
+00:06:09.158 --> 00:06:12.546
+Se corrigen las no conformidades encontradas.
+
+50
+00:06:12.546 --> 00:06:18.683
+Y llega la auditoría de certificación, en sus dos fases: la documental y la de implantación.
+
+51
+00:06:18.683 --> 00:06:26.758
+El resultado: dos no conformidades menores, que se resuelven con un plan de acciones correctivas, y el certificado obtenido.
+
+52
+00:06:26.758 --> 00:06:35.433
+En riesgo humano, la última simulación muestra un nueve por ciento de clics y un cuarenta y uno por ciento de reportes: el objetivo se ha cumplido.
+
+53
+00:06:35.433 --> 00:06:43.958
+Durante la auditoría, el junior suele acompañar al cliente, localizar las evidencias que pide el auditor y tomar nota de cada pregunta.
+
+54
+00:06:43.958 --> 00:06:47.408
+Es una de las mejores experiencias de aprendizaje.
+
+55
+00:06:48.388 --> 00:06:51.238
+Qué lecciones te llevas a la entrevista?
+
+56
+00:06:51.188 --> 00:06:56.700
+Primera: empieza siempre por el contexto del negocio, nunca por la tecnología.
+
+57
+00:06:56.700 --> 00:07:03.588
+Segunda: un incidente real, como el fraude, es la mejor palanca para conseguir el apoyo de la dirección.
+
+58
+00:07:03.588 --> 00:07:18.088
+Tercera: gobierno, privacidad y riesgo humano no son áreas separadas: el mismo riesgo de fraude se trató con un procedimiento, que es gobierno, con formación, que es riesgo humano, y con un aviso en el sistema, que es tecnología.
+
+59
+00:07:18.088 --> 00:07:22.025
+Cuarta: la causa raíz casi siempre es de proceso.
+
+60
+00:07:22.025 --> 00:07:26.575
+Y quinta: los resultados se cuentan con datos de antes y después.
+
+61
+00:07:26.575 --> 00:07:34.613
+Si en la entrevista te plantean un caso, usa esta estructura: contexto, diagnóstico, riesgos, plan y medición.
+
+62
+00:07:34.613 --> 00:07:39.488
+En la web del curso tienes este caso con ejercicios para que lo resuelvas tú.

@@ -1,0 +1,329 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:04.537
+Bienvenido al primero de los dos vídeos dedicados a la privacidad.
+
+2
+00:00:04.487 --> 00:00:10.662
+La oferta a la que aspiras menciona privacidad de forma explícita, así que este bloque es fundamental.
+
+3
+00:00:10.662 --> 00:00:25.650
+Vamos a estudiar el Reglamento General de Protección de Datos de la Unión Europea, conocido como RGPD, y la ley española que lo complementa, la Ley Orgánica tres de dos mil dieciocho, de Protección de Datos Personales y garantía de los derechos digitales.
+
+4
+00:00:25.650 --> 00:00:35.462
+Te explicaré los conceptos clave, los principios, las bases para tratar datos, los roles y los derechos de las personas, siempre con ejemplos de empresa.
+
+5
+00:00:36.414 --> 00:00:39.089
+Empecemos por los conceptos.
+
+6
+00:00:39.039 --> 00:00:44.839
+Un dato personal es cualquier información sobre una persona física identificada o identificable.
+
+7
+00:00:44.839 --> 00:00:51.976
+No solo el nombre: también un correo electrónico, una dirección IP, una matrícula, una voz o una foto.
+
+8
+00:00:51.976 --> 00:00:59.826
+Un tratamiento es cualquier operación con esos datos: recogerlos, guardarlos, consultarlos, enviarlos o borrarlos.
+
+9
+00:00:59.826 --> 00:01:13.839
+Hay categorías especiales de datos que tienen más protección: salud, datos biométricos para identificar a alguien, datos genéticos, ideología, religión, afiliación sindical, origen étnico, vida u orientación sexual.
+
+10
+00:01:13.839 --> 00:01:23.489
+Y dos conceptos que se confunden: seudonimizar es sustituir los identificadores por un código, pero se puede revertir, así que sigue siendo dato personal.
+
+11
+00:01:23.489 --> 00:01:29.201
+Anonimizar es hacerlo de forma irreversible, y entonces el reglamento deja de aplicarse.
+
+12
+00:01:29.201 --> 00:01:33.776
+El reglamento se aplica desde el veinticinco de mayo de dos mil dieciocho.
+
+13
+00:01:34.768 --> 00:01:39.255
+El artículo cinco fija siete principios que debes saber de memoria.
+
+14
+00:01:39.205 --> 00:01:45.568
+Licitud, lealtad y transparencia: tratar datos con una base legal y explicándolo claramente.
+
+15
+00:01:45.568 --> 00:01:50.805
+Limitación de la finalidad: usar los datos solo para el fin para el que se recogieron.
+
+16
+00:01:50.805 --> 00:01:54.880
+Minimización: recoger solo los datos necesarios.
+
+17
+00:01:54.880 --> 00:01:58.718
+Exactitud: mantenerlos correctos y actualizados.
+
+18
+00:01:58.718 --> 00:02:03.780
+Limitación del plazo de conservación: no guardarlos más tiempo del necesario.
+
+19
+00:02:03.780 --> 00:02:11.068
+Integridad y confidencialidad: protegerlos con medidas de seguridad, y aquí se une la privacidad con la ciberseguridad.
+
+20
+00:02:11.068 --> 00:02:17.393
+Y la responsabilidad proactiva: la empresa no solo debe cumplir, debe poder demostrar que cumple.
+
+21
+00:02:17.393 --> 00:02:27.905
+Este último principio explica buena parte del trabajo de un consultor de privacidad: registros, análisis, políticas y evidencias que demuestran el cumplimiento ante la autoridad.
+
+22
+00:02:28.874 --> 00:02:34.961
+Para tratar datos personales necesitas una base de legitimación, y el artículo seis fija seis.
+
+23
+00:02:34.911 --> 00:02:42.449
+El consentimiento, que debe ser libre, específico, informado e inequívoco, y tan fácil de retirar como de dar.
+
+24
+00:02:42.449 --> 00:02:46.036
+Por ejemplo, para enviar un boletín comercial.
+
+25
+00:02:46.036 --> 00:02:51.661
+La ejecución de un contrato, como usar la dirección de un cliente para enviarle su pedido.
+
+26
+00:02:51.661 --> 00:02:57.399
+La obligación legal, como conservar facturas o el registro de jornada de los empleados.
+
+27
+00:02:57.399 --> 00:03:02.411
+Los intereses vitales, como facilitar datos médicos en una emergencia.
+
+28
+00:03:02.411 --> 00:03:07.924
+El interés público o el ejercicio de poderes públicos, típico de administraciones.
+
+29
+00:03:07.924 --> 00:03:16.899
+Y el interés legítimo, como la prevención del fraude, que exige hacer una ponderación documentada entre el interés de la empresa y los derechos de la persona.
+
+30
+00:03:16.899 --> 00:03:25.649
+Un error frecuente es pedir consentimiento para todo: si el tratamiento es necesario para un contrato, el consentimiento no es la base adecuada.
+
+31
+00:03:26.628 --> 00:03:28.640
+Ahora los roles.
+
+32
+00:03:28.590 --> 00:03:33.653
+El responsable del tratamiento es quien decide para qué y cómo se tratan los datos.
+
+33
+00:03:33.653 --> 00:03:38.103
+Por ejemplo, una empresa respecto a los datos de sus empleados.
+
+34
+00:03:38.103 --> 00:03:44.228
+El encargado del tratamiento trata los datos por cuenta del responsable, siguiendo sus instrucciones.
+
+35
+00:03:44.228 --> 00:03:48.990
+Por ejemplo, la empresa que gestiona las nóminas o el proveedor de la nube.
+
+36
+00:03:48.990 --> 00:03:54.428
+Entre ellos debe existir un contrato de encargo con el contenido del artículo veintiocho.
+
+37
+00:03:54.428 --> 00:03:59.290
+Si dos organizaciones deciden conjuntamente, son corresponsables.
+
+38
+00:03:59.290 --> 00:04:06.065
+Y el delegado de protección de datos, o DPO, asesora y supervisa el cumplimiento con independencia.
+
+39
+00:04:06.065 --> 00:04:20.828
+Es obligatorio para administraciones públicas, para quien hace observación sistemática a gran escala o trata categorías especiales a gran escala, y la ley española amplía la lista, por ejemplo, a colegios, entidades financieras o aseguradoras.
+
+40
+00:04:21.814 --> 00:04:25.189
+Las personas tienen derechos sobre sus datos.
+
+41
+00:04:25.139 --> 00:04:29.151
+El de acceso, para saber qué datos tienen sobre ellas.
+
+42
+00:04:29.151 --> 00:04:32.576
+El de rectificación, para corregirlos.
+
+43
+00:04:32.576 --> 00:04:36.426
+El de supresión, conocido como derecho al olvido.
+
+44
+00:04:36.426 --> 00:04:41.839
+El de limitación del tratamiento, para congelarlos mientras se resuelve una reclamación.
+
+45
+00:04:41.839 --> 00:04:47.564
+El de portabilidad, para recibirlos en un formato estructurado y llevarlos a otra empresa.
+
+46
+00:04:47.564 --> 00:04:51.251
+El de oposición, por ejemplo al marketing directo.
+
+47
+00:04:51.251 --> 00:05:01.014
+Y el derecho a no ser objeto de decisiones basadas únicamente en tratamientos automatizados con efectos significativos, algo muy relevante con la inteligencia artificial.
+
+48
+00:05:01.014 --> 00:05:07.226
+La empresa debe responder en un mes, ampliable otros dos si es complejo, de forma gratuita.
+
+49
+00:05:07.226 --> 00:05:14.989
+En los proyectos diseñarás procedimientos para gestionar estos derechos, con plantillas de respuesta y un registro de solicitudes.
+
+50
+00:05:15.968 --> 00:05:20.268
+El principio de transparencia se concreta en el deber de informar.
+
+51
+00:05:20.218 --> 00:05:36.643
+Cuando se recogen datos, hay que decir quién es el responsable, para qué se usan los datos, con qué base legal, a quién se comunican, cuánto tiempo se conservan, si salen de la Unión Europea, y cómo ejercer los derechos y reclamar ante la Agencia Española de Protección de Datos.
+
+52
+00:05:36.643 --> 00:05:45.755
+La ley española permite la información por capas: un resumen breve en el formulario con lo esencial, y un enlace a la política de privacidad completa.
+
+53
+00:05:45.755 --> 00:05:50.380
+Y siempre con un lenguaje claro, que pueda entender cualquier persona.
+
+54
+00:05:50.380 --> 00:05:58.843
+Revisar políticas de privacidad, cláusulas informativas de formularios y avisos de cookies es una tarea muy típica de un junior de privacidad.
+
+55
+00:05:58.843 --> 00:06:03.680
+Fíjate en las webs que visitas, y empieza a detectar qué está bien y qué no.
+
+56
+00:06:04.674 --> 00:06:10.624
+La Ley Orgánica tres de dos mil dieciocho adapta el reglamento a España y añade cosas propias.
+
+57
+00:06:10.574 --> 00:06:15.074
+La edad para que un menor consienta por sí mismo es de catorce años.
+
+58
+00:06:15.074 --> 00:06:25.136
+Amplía la lista de entidades que deben nombrar delegado de protección de datos, como centros educativos, entidades financieras, aseguradoras o empresas de suministros.
+
+59
+00:06:25.136 --> 00:06:38.499
+Y añade un título completo de derechos digitales: el derecho a la desconexión digital de los trabajadores, la intimidad frente al uso de dispositivos digitales, de videovigilancia y de geolocalización en el trabajo, entre otros.
+
+60
+00:06:38.499 --> 00:06:44.361
+También regula casos concretos como la videovigilancia o los sistemas de información crediticia.
+
+61
+00:06:44.361 --> 00:06:49.374
+La autoridad de control en España es la Agencia Española de Protección de Datos.
+
+62
+00:06:49.374 --> 00:06:56.174
+Su web tiene guías, herramientas y resoluciones que te recomiendo leer: son el mejor material de estudio.
+
+63
+00:06:57.124 --> 00:06:59.399
+Hablemos de sanciones.
+
+64
+00:06:59.349 --> 00:07:11.961
+El reglamento prevé multas de hasta veinte millones de euros o el cuatro por ciento de la facturación mundial anual, la cifra mayor, para las infracciones más graves, como tratar datos sin base legal o vulnerar los derechos.
+
+65
+00:07:11.961 --> 00:07:16.486
+Para otras infracciones, hasta diez millones o el dos por ciento.
+
+66
+00:07:16.486 --> 00:07:34.711
+Las grandes multas en Europa han afectado a empresas tecnológicas, pero la Agencia Española es una de las autoridades más activas en número de sanciones, muchas a empresas medianas: por no tener base legal, por medidas de seguridad insuficientes que provocan brechas, por no atender derechos o por videovigilancia indebida.
+
+67
+00:07:34.711 --> 00:07:39.111
+Un consejo: lee algunas resoluciones recientes de la Agencia.
+
+68
+00:07:39.111 --> 00:07:44.274
+En la entrevista, comentar un caso real demuestra interés genuino por el área.
+
+69
+00:07:45.254 --> 00:07:47.379
+Resumen del vídeo.
+
+70
+00:07:47.329 --> 00:07:53.991
+Si hay un dato personal y un tratamiento, necesitas una base de legitimación y cumplir los siete principios.
+
+71
+00:07:53.991 --> 00:08:01.229
+El responsable decide, el encargado trata por cuenta del responsable y el delegado de protección de datos supervisa.
+
+72
+00:08:01.229 --> 00:08:05.116
+Las personas tienen derechos que hay que atender en un mes.
+
+73
+00:08:05.116 --> 00:08:10.941
+Y la ley española añade especificidades como la edad de catorce años y los derechos digitales.
+
+74
+00:08:10.941 --> 00:08:16.591
+Ejercicio práctico: abre el formulario de registro de una web que uses habitualmente.
+
+75
+00:08:16.591 --> 00:08:18.429
+Qué datos pide?
+
+76
+00:08:18.429 --> 00:08:20.754
+Son todos necesarios?
+
+77
+00:08:20.754 --> 00:08:23.279
+Qué base legal crees que usa?
+
+78
+00:08:23.279 --> 00:08:25.554
+Te informa correctamente?
+
+79
+00:08:25.554 --> 00:08:27.954
+Hay casillas premarcadas?
+
+80
+00:08:27.954 --> 00:08:31.741
+Escribe tus conclusiones como si fueras el consultor.
+
+81
+00:08:31.741 --> 00:08:35.979
+Y practica en la web con el clasificador de bases de legitimación.
+
+82
+00:08:35.979 --> 00:08:40.266
+En el siguiente vídeo veremos las herramientas prácticas de privacidad.

@@ -1,0 +1,289 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:05.487
+En el vídeo anterior aprendiste la teoría del reglamento de protección de datos.
+
+2
+00:00:05.437 --> 00:00:11.300
+Ahora vamos a lo práctico: las herramientas con las que trabaja cada día un consultor de privacidad.
+
+3
+00:00:11.300 --> 00:00:23.250
+Veremos el registro de actividades de tratamiento, la evaluación de impacto, la privacidad desde el diseño, la gestión de brechas de datos, los contratos con encargados y las transferencias internacionales.
+
+4
+00:00:23.250 --> 00:00:31.025
+Son exactamente las tareas que te pedirán en tus primeros proyectos, así que te enseñaré también cómo se hacen y qué errores evitar.
+
+5
+00:00:31.998 --> 00:00:38.510
+La primera herramienta es el registro de actividades de tratamiento, que en España todo el mundo llama RAT.
+
+6
+00:00:38.460 --> 00:00:44.485
+Lo exige el artículo treinta y es el inventario de todo lo que la empresa hace con datos personales.
+
+7
+00:00:44.485 --> 00:00:54.460
+Cada actividad es una fila: gestión de nóminas, gestión de clientes, videovigilancia, marketing, selección de personal, y así sucesivamente.
+
+8
+00:00:54.460 --> 00:01:08.898
+Para cada una se indica la finalidad, la base legal, las categorías de datos y de personas afectadas, los destinatarios, si hay transferencias fuera de la Unión Europea, los plazos de conservación y una descripción general de las medidas de seguridad.
+
+9
+00:01:08.898 --> 00:01:10.898
+Cómo se construye?
+
+10
+00:01:10.898 --> 00:01:13.685
+Con entrevistas a cada departamento.
+
+11
+00:01:13.685 --> 00:01:20.273
+Pregunta qué datos recogen, de dónde vienen, dónde los guardan, a quién se los mandan y cuándo los borran.
+
+12
+00:01:20.273 --> 00:01:26.048
+El registro es la base de todo: sin saber qué datos tienes, no puedes protegerlos.
+
+13
+00:01:27.040 --> 00:01:34.590
+La segunda herramienta es la evaluación de impacto relativa a la protección de datos, en español EIPD y en inglés DPIA.
+
+14
+00:01:34.590 --> 00:01:52.627
+Es obligatoria cuando un tratamiento probablemente suponga un alto riesgo para los derechos y libertades de las personas. Por ejemplo, perfilar a clientes a gran escala, tratar datos de salud de forma masiva, la videovigilancia sistemática de zonas públicas o el uso de biometría para controlar el acceso de empleados.
+
+15
+00:01:52.627 --> 00:01:57.452
+La Agencia Española publica listas orientativas de tratamientos que la requieren.
+
+16
+00:01:57.452 --> 00:02:08.615
+Una evaluación de impacto describe el tratamiento, analiza si es necesario y proporcionado, evalúa los riesgos para las personas, no para la empresa, y define medidas para reducirlos.
+
+17
+00:02:08.615 --> 00:02:14.977
+Si después de las medidas el riesgo sigue siendo alto, hay que consultar a la autoridad antes de empezar.
+
+18
+00:02:14.977 --> 00:02:19.240
+La Agencia ofrece la herramienta gratuita Gestiona para ayudar.
+
+19
+00:02:20.234 --> 00:02:25.071
+El artículo veinticinco introduce la privacidad desde el diseño y por defecto.
+
+20
+00:02:25.021 --> 00:02:33.034
+Desde el diseño significa que la privacidad se tiene en cuenta desde el primer día de un proyecto, no al final cuando ya está todo construido.
+
+21
+00:02:33.034 --> 00:02:42.996
+Por defecto significa que la configuración inicial debe ser la más protectora: por ejemplo, un perfil en una aplicación no debe ser público salvo que el usuario lo elija.
+
+22
+00:02:42.996 --> 00:02:55.446
+Medidas típicas: pedir solo los campos imprescindibles, seudonimizar los datos para análisis, cifrar, limitar quién accede, y programar el borrado automático cuando acabe el plazo de conservación.
+
+23
+00:02:55.446 --> 00:03:06.109
+En la práctica, los consultores diseñan una lista de verificación de privacidad que los equipos deben pasar en cada nuevo proyecto, y que decide si hace falta una evaluación de impacto.
+
+24
+00:03:06.109 --> 00:03:08.696
+Es un entregable muy habitual.
+
+25
+00:03:09.684 --> 00:03:15.446
+Ahora un proceso que debes conocer al detalle: la gestión de brechas de datos personales.
+
+26
+00:03:15.396 --> 00:03:27.046
+Una brecha es cualquier incidente que afecte a la confidencialidad, integridad o disponibilidad de datos personales: un ransomware, un correo enviado al destinatario equivocado o un portátil robado.
+
+27
+00:03:27.046 --> 00:03:32.421
+Primero, detectar y contener: cortar la fuga y preservar las evidencias.
+
+28
+00:03:32.421 --> 00:03:37.884
+Segundo, evaluar: qué datos, cuántas personas y qué consecuencias.
+
+29
+00:03:37.884 --> 00:03:41.809
+La Agencia ofrece una herramienta llamada Asesora Brecha.
+
+30
+00:03:41.809 --> 00:03:49.296
+Tercero, si hay riesgo para las personas, notificar a la Agencia en setenta y dos horas desde que se tiene constancia.
+
+31
+00:03:49.296 --> 00:03:56.059
+Cuarto, si el riesgo es alto, comunicarlo a los afectados sin dilación indebida, con lenguaje claro.
+
+32
+00:03:56.059 --> 00:04:01.684
+Y quinto, documentar todas las brechas en un registro interno, se notifiquen o no.
+
+33
+00:04:01.684 --> 00:04:06.071
+En las regulaciones de ciberseguridad hay plazos aún más cortos.
+
+34
+00:04:07.030 --> 00:04:16.130
+Casi todas las empresas usan proveedores que tratan datos por su cuenta: nóminas, nube, centro de atención telefónica o agencias de marketing.
+
+35
+00:04:16.130 --> 00:04:22.842
+Son encargados del tratamiento, y el responsable debe elegir solo aquellos que ofrezcan garantías suficientes.
+
+36
+00:04:22.842 --> 00:04:43.330
+Por eso se necesita un contrato de encargo con el contenido del artículo veintiocho: objeto y duración, tratar los datos solo según instrucciones, confidencialidad del personal, medidas de seguridad, condiciones para subcontratar a otros, ayuda en la gestión de derechos y de brechas, borrado o devolución al terminar, y derecho del responsable a auditar.
+
+37
+00:04:43.330 --> 00:04:50.955
+En los proyectos revisarás contratos frente a una lista de verificación y prepararás cuestionarios de privacidad para proveedores.
+
+38
+00:04:50.955 --> 00:04:57.042
+Esta tarea conecta directamente con la gestión de riesgos de terceros que veremos en el nivel profesional.
+
+39
+00:04:58.016 --> 00:05:05.266
+Otro tema clave son las transferencias internacionales: enviar datos personales fuera del Espacio Económico Europeo.
+
+40
+00:05:05.266 --> 00:05:12.141
+Por ejemplo, cuando una empresa usa un proveedor de nube estadounidense o un centro de soporte en otro continente.
+
+41
+00:05:12.141 --> 00:05:14.916
+Solo se permite con garantías.
+
+42
+00:05:14.916 --> 00:05:22.091
+La más sencilla es que la Comisión Europea haya declarado adecuado al país, como el Reino Unido, Japón o Suiza.
+
+43
+00:05:22.091 --> 00:05:31.591
+Para Estados Unidos existe desde dos mil veintitrés el Marco de Privacidad de Datos entre la Unión Europea y Estados Unidos, válido para empresas adheridas.
+
+44
+00:05:31.591 --> 00:05:40.841
+Si no hay adecuación, se usan las cláusulas contractuales tipo aprobadas en dos mil veintiuno, acompañadas de una evaluación del impacto de la transferencia.
+
+45
+00:05:40.841 --> 00:05:45.791
+Y los grupos multinacionales pueden aprobar normas corporativas vinculantes.
+
+46
+00:05:45.791 --> 00:05:50.666
+Es un tema que cambia a menudo, así que revisa siempre la situación actual.
+
+47
+00:05:51.642 --> 00:05:54.604
+Veamos algunos temas del día a día.
+
+48
+00:05:54.554 --> 00:06:07.617
+Las cookies: para instalar cookies que no sean técnicamente necesarias, como las de analítica o publicidad, hace falta consentimiento previo, según la ley de servicios de la sociedad de la información y la guía de cookies de la Agencia.
+
+49
+00:06:07.617 --> 00:06:11.629
+Y el botón de rechazar debe ser tan fácil como el de aceptar.
+
+50
+00:06:11.629 --> 00:06:20.004
+El marketing requiere una base legal clara y respetar el derecho de oposición; en España existe la Lista Robinson para excluirse de publicidad.
+
+51
+00:06:20.004 --> 00:06:30.104
+La inteligencia artificial plantea nuevos retos: con qué base legal se entrenan los modelos, cómo se informa a las personas y cuándo se necesita una evaluación de impacto.
+
+52
+00:06:30.104 --> 00:06:36.354
+Y el control laboral, como la monitorización de empleados, debe ser proporcionado e informado.
+
+53
+00:06:36.354 --> 00:06:42.142
+Estos temas aparecen mucho en las noticias: síguelos para tener conversación en la entrevista.
+
+54
+00:06:43.132 --> 00:06:46.594
+Todo esto se organiza en un programa de privacidad.
+
+55
+00:06:46.544 --> 00:06:52.932
+Tiene gobierno: un delegado de protección de datos, un comité, políticas y roles claros.
+
+56
+00:06:52.932 --> 00:06:58.069
+Tiene inventario: el registro de actividades y un mapa de cómo fluyen los datos.
+
+57
+00:06:58.069 --> 00:07:06.957
+Tiene procesos: gestión de derechos, gestión de brechas, evaluaciones de impacto, privacidad desde el diseño y control de proveedores.
+
+58
+00:07:06.957 --> 00:07:13.907
+Tiene formación y concienciación de los empleados, y aquí la privacidad se encuentra de nuevo con el riesgo humano.
+
+59
+00:07:13.907 --> 00:07:18.969
+Y tiene monitorización: indicadores, auditorías y una revisión anual.
+
+60
+00:07:18.969 --> 00:07:27.882
+Muchas empresas usan herramientas especializadas como OneTrust o TrustArc, aunque en empresas medianas sigue siendo muy común trabajar con Excel y SharePoint.
+
+61
+00:07:27.882 --> 00:07:33.782
+Si puedes, haz algún curso gratuito de estas herramientas: es un punto a favor en tu currículum.
+
+62
+00:07:34.742 --> 00:07:36.454
+Resumen.
+
+63
+00:07:36.404 --> 00:07:39.942
+El registro de actividades es el inventario base.
+
+64
+00:07:39.942 --> 00:07:44.404
+La evaluación de impacto se hace para los tratamientos de alto riesgo.
+
+65
+00:07:44.404 --> 00:07:49.329
+Las brechas se notifican a la Agencia en setenta y dos horas si suponen un riesgo.
+
+66
+00:07:49.329 --> 00:07:53.579
+Los proveedores necesitan un contrato de encargo y garantías.
+
+67
+00:07:53.579 --> 00:07:58.192
+Y las transferencias internacionales requieren mecanismos específicos.
+
+68
+00:07:58.192 --> 00:08:03.317
+Ejercicio: completa tres filas del registro de actividades de un gimnasio.
+
+69
+00:08:03.317 --> 00:08:07.892
+Primera, la gestión de socios, con base legal contractual.
+
+70
+00:08:07.892 --> 00:08:19.304
+Segunda, el acceso con huella dactilar: son datos biométricos, una categoría especial, así que pregúntate si es necesario, si hay alternativas y si requiere evaluación de impacto.
+
+71
+00:08:19.304 --> 00:08:27.479
+Y tercera, la videovigilancia, con base en el interés legítimo y plazo máximo de conservación de un mes según la ley española.
+
+72
+00:08:27.479 --> 00:08:30.667
+En la web tienes la plantilla para practicar.

@@ -1,0 +1,277 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:06.587
+En este vídeo te enseño las herramientas que diferencian a un buen consultor junior desde la primera semana.
+
+2
+00:00:06.537 --> 00:00:25.562
+No hablo de software de seguridad, hablo de métodos de trabajo: cómo se hace un análisis de diferencias, cómo se mide la madurez, cómo se prepara y se conduce una entrevista con un cliente, cómo se construye un buen Excel de seguimiento, cómo se redacta una diapositiva que entienda un directivo y cómo comunicarte con el cliente y con tu equipo.
+
+3
+00:00:25.562 --> 00:00:30.212
+Son habilidades que nadie te enseña en la universidad y que te harán destacar.
+
+4
+00:00:31.182 --> 00:00:37.882
+La herramienta más usada en consultoría de cumplimiento es el análisis de diferencias, el famoso gap analysis.
+
+5
+00:00:37.832 --> 00:00:47.757
+Consiste en comparar la situación actual del cliente, lo que en inglés llamamos as-is, con la situación objetivo, el to-be, que normalmente es una norma o un marco.
+
+6
+00:00:47.757 --> 00:00:56.432
+Para cada requisito registras el estado, la evidencia revisada, la diferencia encontrada, la recomendación para cerrarla y su prioridad.
+
+7
+00:00:56.432 --> 00:01:03.782
+El resultado es un porcentaje de cumplimiento por dominio, muy visual en un gráfico, y un plan de acción priorizado.
+
+8
+00:01:03.782 --> 00:01:06.294
+De dónde sale la información?
+
+9
+00:01:06.294 --> 00:01:16.769
+De tres fuentes: la documentación que te envía el cliente, las entrevistas con los responsables y, cuando se puede, pruebas o inspecciones para comprobar que lo que dicen es cierto.
+
+10
+00:01:16.769 --> 00:01:19.757
+Nunca te quedes solo con lo que te cuentan.
+
+11
+00:01:20.752 --> 00:01:27.952
+Además del cumplimiento sí o no, se suele medir la madurez, con una escala inspirada en el modelo CMMI.
+
+12
+00:01:27.952 --> 00:01:32.252
+Nivel cero, inexistente: el control no existe.
+
+13
+00:01:32.252 --> 00:01:38.502
+Nivel uno, inicial: se hace de forma informal y depende de que una persona concreta se acuerde.
+
+14
+00:01:38.502 --> 00:01:44.752
+Nivel dos, repetible: se hace siempre de forma parecida, pero no está bien documentado.
+
+15
+00:01:44.752 --> 00:01:50.152
+Nivel tres, definido: está documentado, aprobado y comunicado.
+
+16
+00:01:50.152 --> 00:01:55.352
+Nivel cuatro, gestionado: además se mide con indicadores y se controla.
+
+17
+00:01:55.352 --> 00:02:01.777
+Y nivel cinco, optimizado: mejora continua, automatización, es un referente.
+
+18
+00:02:01.777 --> 00:02:05.777
+Muchas empresas fijan como objetivo un nivel tres o cuatro.
+
+19
+00:02:05.777 --> 00:02:16.239
+El truco para valorar con rigor es definir criterios claros para cada nivel antes de las entrevistas, y pedir evidencias: sin evidencia documental, como mucho es un nivel dos.
+
+20
+00:02:17.210 --> 00:02:21.210
+Las entrevistas con el cliente son el día a día del área.
+
+21
+00:02:21.160 --> 00:02:30.085
+Antes de la entrevista: lee la documentación disponible, prepara un cuestionario basado en los requisitos y envía una agenda con el objetivo y la duración.
+
+22
+00:02:30.085 --> 00:02:36.135
+Durante la entrevista: preséntate, explica para qué sirve, y usa preguntas abiertas.
+
+23
+00:02:36.135 --> 00:02:42.085
+Las dos mejores preguntas del consultor son: ¿cómo lo hacéis?, y ¿me lo puedes enseñar?
+
+24
+00:02:42.085 --> 00:02:47.997
+La primera evita respuestas de sí o no, y la segunda convierte una afirmación en una evidencia.
+
+25
+00:02:47.997 --> 00:02:53.072
+Toma notas lo más literales posible y apunta las evidencias que quedan pendientes.
+
+26
+00:02:53.072 --> 00:03:00.985
+Después, envía el acta en veinticuatro o cuarenta y ocho horas, con los acuerdos y la lista de evidencias pendientes con fechas.
+
+27
+00:03:00.985 --> 00:03:07.760
+Como junior, empezarás tomando notas: hazlo tan bien que tu manager confíe en ti para conducir la siguiente.
+
+28
+00:03:08.724 --> 00:03:13.624
+Excel es la herramienta que más vas a usar, aunque suene poco glamuroso.
+
+29
+00:03:13.574 --> 00:03:23.274
+Un buen Excel de cumplimiento tiene los datos en formato de tabla, con filtros, y cada fila representa un registro: un control, un riesgo o un requisito.
+
+30
+00:03:23.274 --> 00:03:31.674
+Usa la validación de datos para crear listas desplegables con los estados y las escalas, así evitas que cada persona escriba algo distinto.
+
+31
+00:03:31.674 --> 00:03:40.611
+Domina funciones como BUSCARX, CONTAR.SI.CONJUNTO, SI y SUMAPRODUCTO, que te permiten calcular porcentajes de cumplimiento por dominio.
+
+32
+00:03:40.611 --> 00:03:44.586
+Usa el formato condicional para pintar los mapas de calor.
+
+33
+00:03:44.586 --> 00:03:48.311
+Y crea tablas dinámicas y gráficos para el resumen.
+
+34
+00:03:48.311 --> 00:03:53.936
+Un detalle profesional: añade siempre una pestaña de instrucciones y control de versiones.
+
+35
+00:03:53.936 --> 00:03:59.461
+Si llegas a la empresa sabiendo hacer esto con soltura, ahorrarás horas a tu equipo.
+
+36
+00:04:00.430 --> 00:04:04.480
+Las presentaciones de consultoría tienen reglas propias.
+
+37
+00:04:04.430 --> 00:04:09.717
+La más importante: el título de la diapositiva es la conclusión, no el tema.
+
+38
+00:04:09.717 --> 00:04:13.605
+Un mal título es resultados del análisis de diferencias.
+
+39
+00:04:13.605 --> 00:04:21.767
+Un buen título es: el cliente cumple el sesenta y dos por ciento de la norma, y las mayores diferencias están en proveedores y continuidad.
+
+40
+00:04:21.767 --> 00:04:24.242
+Una idea por diapositiva.
+
+41
+00:04:24.242 --> 00:04:32.230
+Estructura tus mensajes con la pirámide de Minto: primero la conclusión, luego los argumentos y después los datos que los sostienen.
+
+42
+00:04:32.230 --> 00:04:38.242
+Si lees solo los títulos de todas las diapositivas seguidos, deben contar la historia completa.
+
+43
+00:04:38.242 --> 00:04:44.767
+Cita siempre las fuentes, numera las diapositivas y mantén la coherencia visual con la plantilla corporativa.
+
+44
+00:04:44.767 --> 00:04:51.780
+Y antes de enviar nada, revísalo dos veces: cifras que cuadran, cero erratas y elementos alineados.
+
+45
+00:04:51.780 --> 00:04:54.430
+Los directivos lo notan todo.
+
+46
+00:04:55.400 --> 00:04:57.825
+También escribirás mucho.
+
+47
+00:04:57.775 --> 00:05:03.462
+Un buen correo tiene un asunto claro, la petición en la primera línea y una fecha límite.
+
+48
+00:05:03.462 --> 00:05:09.512
+Por ejemplo: asunto, evidencias pendientes del control de accesos, antes del viernes.
+
+49
+00:05:09.512 --> 00:05:24.800
+Para redactar un hallazgo de auditoría o de un análisis de diferencias usa la estructura clásica: condición, que es lo que has visto; criterio, que es lo que exige la norma; causa, por qué ocurre; efecto, qué riesgo supone; y recomendación.
+
+50
+00:05:24.800 --> 00:05:33.087
+El lenguaje debe ser objetivo y no acusatorio: no se ha evidenciado un procedimiento, en lugar de el equipo de sistemas no hace su trabajo.
+
+51
+00:05:33.087 --> 00:05:37.075
+En inglés, usa frases cortas y estructuras estándar.
+
+52
+00:05:37.075 --> 00:05:43.575
+Y una regla de oro para un junior: nada sale hacia el cliente sin la revisión de tu senior o tu manager.
+
+53
+00:05:43.575 --> 00:05:46.900
+No es desconfianza, es control de calidad.
+
+54
+00:05:47.850 --> 00:05:53.462
+Conviene que conozcas los nombres de las herramientas del mercado, aunque no las hayas usado.
+
+55
+00:05:53.412 --> 00:06:01.337
+En gobierno, riesgo y cumplimiento: ServiceNow con su módulo de riesgo integrado, Archer, MetricStream u OneTrust.
+
+56
+00:06:01.337 --> 00:06:05.237
+En privacidad: OneTrust, TrustArc o Securiti.
+
+57
+00:06:05.237 --> 00:06:11.950
+En riesgo humano: KnowBe4, Proofpoint, Hoxhunt, SoSafe o el simulador de ataques de Microsoft.
+
+58
+00:06:11.950 --> 00:06:18.225
+Para análisis de riesgos según el Esquema Nacional: la herramienta PILAR del Centro Criptológico Nacional.
+
+59
+00:06:18.225 --> 00:06:24.912
+Y para el día a día, el paquete de ofimática, Teams, SharePoint y Power BI para cuadros de mando.
+
+60
+00:06:24.912 --> 00:06:35.450
+Un punto muy importante sobre la inteligencia artificial generativa: es una ayuda enorme, pero con información de clientes solo se pueden usar las herramientas aprobadas por la firma.
+
+61
+00:06:35.450 --> 00:06:40.887
+Pegar un documento confidencial en una herramienta pública es una brecha de confidencialidad.
+
+62
+00:06:41.908 --> 00:06:45.270
+La última herramienta es la gestión de ti mismo.
+
+63
+00:06:45.220 --> 00:06:54.133
+Cuando recibas un encargo, aclara cuatro cosas: qué hay que hacer exactamente, para cuándo, en qué formato y para quién es el resultado.
+
+64
+00:06:54.133 --> 00:07:00.983
+Si tienes dudas, pregunta pronto: es mucho mejor preguntar el primer día que entregar algo equivocado el último.
+
+65
+00:07:00.983 --> 00:07:05.970
+Si ves que vas a llegar tarde, avisa antes, nunca después del plazo.
+
+66
+00:07:05.970 --> 00:07:13.733
+Organiza tu semana entre el proyecto, la formación y las iniciativas internas de la firma, que también cuentan en tu evaluación.
+
+67
+00:07:13.733 --> 00:07:19.020
+Registra tus horas con rigor, porque en consultoría el tiempo es lo que se factura.
+
+68
+00:07:19.020 --> 00:07:24.845
+Y pide retroalimentación concreta: ¿qué haría falta para que este entregable fuese excelente?
+
+69
+00:07:24.845 --> 00:07:31.420
+La cultura del feedback que menciona la oferta funciona en ambas direcciones: recíbelo bien y actúa sobre él.

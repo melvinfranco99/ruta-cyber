@@ -1,0 +1,297 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:09.437
+En este vídeo vamos a estudiar la norma más importante de tu futuro trabajo: ISO barra IEC veintisiete mil uno, en su versión de dos mil veintidós.
+
+2
+00:00:09.437 --> 00:00:17.200
+Es la norma internacional para crear un sistema de gestión de seguridad de la información, que en español abreviamos como SGSI.
+
+3
+00:00:17.200 --> 00:00:26.850
+Vas a participar en implantaciones, en análisis de diferencias y en auditorías internas basadas en ella, y es casi seguro que te pregunten por ella en la entrevista.
+
+4
+00:00:26.850 --> 00:00:34.412
+Te la voy a explicar sin tecnicismos, cláusula a cláusula, y con ejemplos de las evidencias que se piden en una auditoría.
+
+5
+00:00:35.382 --> 00:00:43.669
+Un sistema de gestión es una forma organizada de dirigir algo, con objetivos, responsabilidades, procesos y mejora continua.
+
+6
+00:00:43.669 --> 00:00:51.482
+Las empresas tienen sistemas de gestión de calidad, de medio ambiente o, en nuestro caso, de seguridad de la información.
+
+7
+00:00:51.482 --> 00:01:05.194
+El SGSI protege la confidencialidad, la integridad y la disponibilidad de la información, y está basado en el riesgo: no se aplican todos los controles a ciegas, sino los que tienen sentido según los riesgos de la organización.
+
+8
+00:01:05.194 --> 00:01:13.432
+Una entidad de certificación acreditada puede certificarlo, y el certificado dura tres años, con auditorías de seguimiento anuales.
+
+9
+00:01:13.432 --> 00:01:26.032
+ISO veintisiete mil uno forma parte de una familia: la veintisiete mil dos detalla los controles, la veintisiete mil cinco trata la gestión de riesgos, y la veintisiete mil setecientos uno amplía el sistema a la privacidad.
+
+10
+00:01:27.016 --> 00:01:34.316
+Las normas ISO de sistemas de gestión siguen el ciclo de mejora continua, conocido como PDCA o ciclo de Deming.
+
+11
+00:01:34.316 --> 00:01:42.053
+Planificar: entender el contexto de la organización, definir el alcance, analizar los riesgos y fijar objetivos.
+
+12
+00:01:42.053 --> 00:01:47.178
+Hacer: implantar los controles, formar a las personas y operar el sistema.
+
+13
+00:01:47.178 --> 00:01:53.891
+Verificar: medir los indicadores, hacer auditorías internas y que la dirección revise los resultados.
+
+14
+00:01:53.891 --> 00:01:59.753
+Y actuar: corregir lo que no funciona, lo que llamamos no conformidades, y mejorar.
+
+15
+00:01:59.753 --> 00:02:01.728
+Y vuelta a empezar.
+
+16
+00:02:01.728 --> 00:02:08.516
+Esta idea es clave para entender la norma: un SGSI no es un proyecto que termina, es un sistema vivo.
+
+17
+00:02:08.516 --> 00:02:16.903
+Muchas empresas fallan porque implantan, se certifican y luego se olvidan, y en la siguiente auditoría aparecen muchas no conformidades.
+
+18
+00:02:17.882 --> 00:02:23.294
+La norma tiene cláusulas de la cuatro a la diez, que son obligatorias para certificarse.
+
+19
+00:02:23.244 --> 00:02:31.582
+La cuatro, contexto: analizar el entorno, identificar las partes interesadas y sus requisitos, y definir el alcance.
+
+20
+00:02:31.582 --> 00:02:37.794
+La cinco, liderazgo: la dirección se compromete, aprueba la política y asigna roles.
+
+21
+00:02:37.794 --> 00:02:46.119
+La seis, planificación: la metodología de riesgos, el tratamiento, la declaración de aplicabilidad y los objetivos de seguridad.
+
+22
+00:02:46.119 --> 00:02:54.107
+La siete, soporte: recursos, competencias, concienciación, comunicación e información documentada.
+
+23
+00:02:54.107 --> 00:02:57.407
+Aquí entra de lleno el área de riesgo humano.
+
+24
+00:02:57.407 --> 00:03:03.044
+La ocho, operación: ejecutar de verdad la evaluación y el tratamiento de los riesgos.
+
+25
+00:03:03.044 --> 00:03:09.757
+La nueve, evaluación del desempeño: indicadores, auditoría interna y revisión por la dirección.
+
+26
+00:03:09.757 --> 00:03:14.844
+Y la diez, mejora: gestionar no conformidades y acciones correctivas.
+
+27
+00:03:14.844 --> 00:03:18.207
+Fíjate en las evidencias típicas de cada una.
+
+28
+00:03:19.188 --> 00:03:23.025
+El Anexo A es el catálogo de controles de referencia.
+
+29
+00:03:22.975 --> 00:03:28.388
+En la versión de dos mil veintidós hay noventa y tres controles agrupados en cuatro temas.
+
+30
+00:03:28.388 --> 00:03:37.388
+Treinta y siete organizativos, como políticas, roles, relación con proveedores, gestión de incidentes o uso de servicios en la nube.
+
+31
+00:03:37.388 --> 00:03:44.200
+Ocho de personas, como la verificación de antecedentes, la formación y concienciación, o el teletrabajo.
+
+32
+00:03:44.200 --> 00:03:51.013
+Catorce físicos, como el perímetro de seguridad, la protección de equipos o la política de mesas limpias.
+
+33
+00:03:51.013 --> 00:04:00.038
+Y treinta y cuatro tecnológicos, como el control de accesos, el cifrado, las copias de seguridad, los registros o el desarrollo seguro.
+
+34
+00:04:00.038 --> 00:04:06.200
+La versión anterior, de dos mil trece, tenía ciento catorce controles en catorce dominios.
+
+35
+00:04:06.200 --> 00:04:14.388
+La nueva añadió once controles, como inteligencia de amenazas, seguridad en la nube, prevención de fuga de datos o filtrado web.
+
+36
+00:04:15.358 --> 00:04:22.545
+Uno de los documentos más importantes del sistema es la declaración de aplicabilidad, en inglés Statement of Applicability.
+
+37
+00:04:22.545 --> 00:04:27.070
+Es normalmente un Excel con los noventa y tres controles del Anexo A.
+
+38
+00:04:27.070 --> 00:04:37.845
+Para cada uno se indica si aplica o no, la justificación de esa decisión, el estado de implantación y, en las buenas prácticas, a qué riesgos responde y dónde están las evidencias.
+
+39
+00:04:37.845 --> 00:04:46.983
+Por ejemplo, una empresa que trabaja cien por cien en remoto podría justificar que algunos controles físicos de oficinas tienen un alcance limitado.
+
+40
+00:04:46.983 --> 00:04:53.170
+Pero cuidado: excluir un control requiere una justificación sólida basada en el análisis de riesgos.
+
+41
+00:04:53.170 --> 00:05:02.120
+Como junior, es muy probable que te toque mantener esta declaración, así que revisa bien la coherencia entre lo que dice el documento y lo que de verdad se hace.
+
+42
+00:05:03.080 --> 00:05:05.955
+Cómo es un proyecto de implantación?
+
+43
+00:05:05.905 --> 00:05:12.517
+Primero, el arranque: definir el alcance, conseguir el compromiso de la dirección y formar el equipo.
+
+44
+00:05:12.517 --> 00:05:17.992
+Segundo, un análisis de diferencias para saber dónde está el cliente frente a la norma.
+
+45
+00:05:17.992 --> 00:05:22.205
+Tercero, el análisis de riesgos y el plan de tratamiento.
+
+46
+00:05:22.205 --> 00:05:28.205
+Cuarto, la documentación: la política, los procedimientos y la declaración de aplicabilidad.
+
+47
+00:05:28.205 --> 00:05:32.280
+Quinto, implantar los controles y formar a las personas.
+
+48
+00:05:32.280 --> 00:05:38.930
+Sexto, una auditoría interna y una revisión por la dirección, que son obligatorias antes de certificar.
+
+49
+00:05:38.930 --> 00:05:49.992
+Y séptimo, la auditoría de certificación, que tiene dos fases: en la fase uno el auditor revisa la documentación, y en la fase dos comprueba que el sistema funciona en la práctica.
+
+50
+00:05:49.992 --> 00:05:55.655
+Un proyecto así dura normalmente entre seis y doce meses, según el tamaño y la madurez.
+
+51
+00:05:56.610 --> 00:06:02.847
+En una auditoría, el auditor compara lo que exige la norma con lo que ve, y redacta hallazgos.
+
+52
+00:06:02.797 --> 00:06:10.660
+Una no conformidad mayor es un incumplimiento grave o sistemático, por ejemplo, que no se haya hecho nunca una auditoría interna.
+
+53
+00:06:10.660 --> 00:06:13.222
+Puede impedir la certificación.
+
+54
+00:06:13.222 --> 00:06:19.810
+Una no conformidad menor es un fallo puntual, como un usuario que dejó la empresa y conserva su acceso.
+
+55
+00:06:19.810 --> 00:06:23.197
+Una observación es una oportunidad de mejora.
+
+56
+00:06:23.197 --> 00:06:33.222
+Cada hallazgo bien redactado tiene la evidencia de lo observado, el requisito incumplido, y la organización debe analizar la causa raíz y definir una acción correctiva.
+
+57
+00:06:33.222 --> 00:06:38.160
+La norma ISO diecinueve mil once explica cómo auditar sistemas de gestión.
+
+58
+00:06:45.052 --> 00:06:50.602
+Te dejo los errores que más vas a encontrar en clientes, para que aprendas a detectarlos.
+
+59
+00:06:50.552 --> 00:06:56.502
+Un alcance ambiguo, que no deja claro qué procesos, sedes y sistemas están incluidos.
+
+60
+00:06:56.502 --> 00:07:02.189
+Políticas copiadas de una plantilla, que mencionan sistemas que el cliente ni siquiera tiene.
+
+61
+00:07:02.189 --> 00:07:08.064
+Un análisis de riesgos que no tiene ninguna relación con los controles de la declaración de aplicabilidad.
+
+62
+00:07:08.064 --> 00:07:13.864
+Una dirección ausente, que firma la política pero no revisa resultados ni pone recursos.
+
+63
+00:07:13.864 --> 00:07:18.952
+Formación genérica, que todos hacen con un clic, sin medir si cambia algo.
+
+64
+00:07:18.952 --> 00:07:23.989
+Y el peor de todos: documentar procedimientos que en la práctica no se siguen.
+
+65
+00:07:23.989 --> 00:07:27.227
+El auditor lo detectará al pedir evidencias.
+
+66
+00:07:27.227 --> 00:07:34.377
+Tu valor como consultor es diseñar un sistema sencillo, realista y que el cliente pueda mantener cuando tú te vayas.
+
+67
+00:07:35.366 --> 00:07:37.191
+Resumimos.
+
+68
+00:07:37.141 --> 00:07:43.366
+ISO veintisiete mil uno define un sistema de gestión de seguridad basado en riesgos y en mejora continua.
+
+69
+00:07:43.366 --> 00:07:51.378
+Tiene cláusulas de la cuatro a la diez, que son obligatorias, y un Anexo A con noventa y tres controles agrupados en cuatro temas.
+
+70
+00:07:51.378 --> 00:07:56.216
+La declaración de aplicabilidad justifica qué controles aplican y su estado.
+
+71
+00:07:56.216 --> 00:08:04.578
+Ahora un ejercicio muy útil para tu primer proyecto: elige cinco controles y escribe qué evidencia pedirías al cliente para comprobarlos.
+
+72
+00:08:04.578 --> 00:08:14.753
+Por ejemplo, para el control de formación y concienciación pedirías el plan anual de formación, los registros de quién la ha completado y los resultados de las simulaciones de phishing.
+
+73
+00:08:14.753 --> 00:08:21.241
+Para el control de copias de seguridad, la política de copias y el registro de la última prueba de restauración.
+
+74
+00:08:21.241 --> 00:08:24.766
+En la web tienes un laboratorio para practicarlo.
